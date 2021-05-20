@@ -45,4 +45,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-<div style="height=100px; width=100%; display:block">Test HTML</div>
