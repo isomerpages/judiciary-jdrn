@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: State Courts Isomer Page
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
