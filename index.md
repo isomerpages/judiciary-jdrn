@@ -38,4 +38,10 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infopic:
+      title: Infopic Title 2
+      subtitle: Infopic Subtitle 2
+      description: Infopic description 2
+      button: Button Text
+      alt: Image alt text
 ---
