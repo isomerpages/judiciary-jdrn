@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: State Courts Isomer Page
+title: State Courts JDRN
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
