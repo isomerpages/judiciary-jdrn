@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - vision-and-mission.md
+      - about-jdrn.md
