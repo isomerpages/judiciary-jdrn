@@ -2,7 +2,7 @@
 title: Sample File Sharing Page
 permalink: /example-collection/permalink
 ---
-Files that are not shared with public
+What public will see when files are not shared to them:
 
 [Private File 1](https://my-sgdcs.sgnet.gov.sg/personal/stcwonhlo/Documents/JDRN%20Private%20Files/test%20private%20file.docx?d=w178ad670665647da899fee7636966f39&csf=1&e=hSFUIA)
 
@@ -10,7 +10,7 @@ Files that are not shared with public
 
 [Private Repoistory](https://my-sgdcs.sgnet.gov.sg/personal/stcwonhlo/Documents/JDRN%20Private%20Files?csf=1&e=jKSRc0)
 
-Files that are shared with JDRN members
+What JDRN members will see:
 
 [JDRN Members File 1](https://my-sgdcs.sgnet.gov.sg/personal/stcwonhlo/Documents/JDRN%20Test%20Files/test%20file.docx?d=w7859ea339ebe4c2b8d9c7284015477e0&csf=1&e=NCetLc)
 
