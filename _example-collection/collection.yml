@@ -4,3 +4,4 @@ collections:
     order:
       - example-page/.keep
       - example-page/example-subpage.md
+      - sample-file-sharing-page.md
