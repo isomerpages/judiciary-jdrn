@@ -1,4 +1,5 @@
 collections:
   test-demo-page-category:
     output: true
-    order: []
+    order:
+      - test-demo-page.md
