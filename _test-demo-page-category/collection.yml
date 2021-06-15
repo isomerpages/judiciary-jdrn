@@ -1,0 +1,4 @@
+collections:
+  test-demo-page-category:
+    output: true
+    order: []
