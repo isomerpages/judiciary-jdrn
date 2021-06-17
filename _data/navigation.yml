@@ -1,14 +1,14 @@
 logo: /images/StateCourt_Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: About Us
+    collection: about-us
   - title: Example Page
     url: /example-page/
   - title: Example Collection
     collection: example-collection
   - title: Resource
     resource_room: true
-  - title: About Us
-    collection: about-us
   - title: Test Demo Page Category
     collection: test-demo-page-category
+  - title: Contact Us
+    url: /contact-us/
