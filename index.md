@@ -24,7 +24,7 @@ sections:
           description: Deliverables of JDRN
           url: /jdrn-deliverables
       button: Contact Us
-      url: /contact
+      url: /contact-us
   - infobar:
       title: Infobar title
       subtitle: Subtitle
