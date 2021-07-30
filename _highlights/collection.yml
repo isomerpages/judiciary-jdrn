@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - introduction-to-jdrn.md
+      - objectives-of-jdrn.md
