@@ -1,5 +1,0 @@
-collections:
-  test-demo-page-category:
-    output: true
-    order:
-      - test-demo-page.md
