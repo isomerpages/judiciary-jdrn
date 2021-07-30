@@ -1,0 +1,4 @@
+---
+title: Modalities
+permalink: /modalities
+---
