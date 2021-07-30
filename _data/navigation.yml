@@ -2,13 +2,11 @@ logo: /images/StateCourt_Logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Example Page
+  - title: News and Events
     url: /example-page/
-  - title: Example Collection
+  - title: Initiatives
     collection: example-collection
-  - title: Resource
+  - title: Materials
     resource_room: true
-  - title: Test Demo Page Category
-    collection: test-demo-page-category
   - title: Contact Us
     url: /contact-us/
