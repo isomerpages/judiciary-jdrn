@@ -2,5 +2,4 @@
 title: Best Practice Standards
 permalink: /about-us/standards
 ---
-
-Test About JDRN
+<Contents for Best Practice Standards goes here.>
