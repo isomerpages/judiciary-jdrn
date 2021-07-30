@@ -11,17 +11,17 @@ sections:
       subtitle: JDRN Website
       background: /images/hero-banner.png
       key_highlights:
-        - title: Introduction of JDRN
-          description: Introduction
+        - title: Introduction
+          description: Introduction of JDRN
           url: /jdrn-intro
-        - title: Objectives of JDRN
-          description: Objectives
+        - title: Objectives
+          description: Objectives of JDRN
           url: /jdrn-obj
-        - title: Benefits for JDRN
-          description: Benefits
+        - title: Benefits
+          description: Benefits of JDRN
           url: /jdrn-benefits
-        - title: Deliverables of JDRN
-          description: Deliverables
+        - title: Deliverables
+          description: Deliverables of JDRN
           url: /jdrn-deliverables
       button: Contact Us
       url: /contact
