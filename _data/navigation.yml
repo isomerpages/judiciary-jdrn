@@ -5,7 +5,7 @@ links:
   - title: News and Events
     url: /example-page/
   - title: Initiatives
-    collection: example-collection
+    collection: initiatives
   - title: Materials
     resource_room: true
   - title: Contact Us
