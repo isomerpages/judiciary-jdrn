@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - sample-file-sharing-page.md
+      - jdrn-best-practices-guide.md
