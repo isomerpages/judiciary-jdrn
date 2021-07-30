@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - who-are-we/.keep
-      - who-are-we/who-we-are.md
       - who-are-we/our-history.md
       - vision-and-mission.md
       - about-jdrn.md
