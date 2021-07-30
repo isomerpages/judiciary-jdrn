@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - who-are-we/.keep
-      - who-are-we/our-history.md
-      - who-are-we/our-team.md
-      - who-are-we/our-members.md
+      - who-we-are/.keep
+      - who-we-are/our-history.md
+      - who-we-are/our-team.md
+      - who-we-are/our-members.md
       - vision-and-mission.md
       - about-jdrn.md
       - what-we-do.md
