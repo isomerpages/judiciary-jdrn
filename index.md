@@ -10,9 +10,21 @@ sections:
       title: Judiciary Dispute Resolution Network
       subtitle: JDRN Website
       background: /images/hero-banner.png
-      dropdown:
-        title: Dropdown Test
-        options: []
+      key_highlights:
+        - title: Introduction of JDRN
+          description: Introduction
+          url: /jdrn-intro
+        - title: Objectives of JDRN
+          description: Objectives
+          url: /jdrn-obj
+        - title: Benefits for JDRN
+          description: Benefits
+          url: /jdrn-benefits
+        - title: Deliverables of JDRN
+          description: Deliverables
+          url: /jdrn-deliverables
+      button: Contact Us
+      url: /contact
   - infobar:
       title: Infobar title
       subtitle: Subtitle
