@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - who-are-we/.keep
       - who-we-are.md
       - vision-and-mission.md
       - about-jdrn.md
