@@ -1,0 +1,4 @@
+collections:
+  materials:
+    output: true
+    order: []
