@@ -4,3 +4,4 @@ collections:
     order:
       - jdr-modalities.md
       - best-practice-standards.md
+      - communications-and-discussions.md
