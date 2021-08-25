@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - jdr-modalities.md
+      - best-practice-standards.md
