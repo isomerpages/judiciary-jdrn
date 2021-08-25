@@ -1,4 +1,5 @@
 collections:
   materials:
     output: true
-    order: []
+    order:
+      - keynote-address.md
