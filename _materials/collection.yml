@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - keynote-address.md
+      - event-presentations.md
