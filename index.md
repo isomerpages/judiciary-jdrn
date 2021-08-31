@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Judiciary Dispute Resolution Network
+      title: Judicial Dispute Resolution Network
       subtitle: JDRN Website
       background: /images/hero-banner.png
       key_highlights:
