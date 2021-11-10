@@ -2,5 +2,5 @@ collections:
   introduction:
     output: true
     order:
-      - Example Title.md
+      - Introduction to the JDRN.md
       - introduction.md
