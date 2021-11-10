@@ -2,4 +2,5 @@ collections:
   benefits-of-jdrn:
     output: true
     order:
+      - Example Title.md
       - benefits.md
