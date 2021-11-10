@@ -2,4 +2,5 @@ collections:
   objectives-of-the-jdrn:
     output: true
     order:
+      - Example Title.md
       - objectives.md
