@@ -1,4 +1,5 @@
 collections:
   benefits-of-jdrn:
     output: true
-    order: []
+    order:
+      - benefits.md
