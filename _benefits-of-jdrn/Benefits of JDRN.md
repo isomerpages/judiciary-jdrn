@@ -3,7 +3,6 @@ title: Benefits of JDRN
 permalink: /benefits-of-jdrn/permalink
 description: ""
 ---
-
 (a) Cases are resolved early, thus saving parties’ time.
 
 (b)	Legal costs are saved by parties.
