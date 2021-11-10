@@ -2,4 +2,5 @@ collections:
   into:
     output: true
     order:
+      - Example Title.md
       - introduction.md
