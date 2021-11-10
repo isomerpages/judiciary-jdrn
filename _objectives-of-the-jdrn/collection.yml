@@ -1,4 +1,5 @@
 collections:
   objectives-of-the-jdrn:
     output: true
-    order: []
+    order:
+      - objectives.md
