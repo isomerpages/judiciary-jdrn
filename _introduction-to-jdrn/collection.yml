@@ -1,5 +1,5 @@
 collections:
-  introduction:
+  introduction-to-jdrn:
     output: true
     order:
       - Introduction to the JDRN.md
