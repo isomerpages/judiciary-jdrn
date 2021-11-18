@@ -12,16 +12,16 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Introduction
-          description: Introduction of JDRN
+          description: ""
           url: /jdrn-intro
         - title: Objectives
-          description: Objectives of JDRN
+          description: ""
           url: /jdrn-obj
         - title: Benefits
-          description: Benefits of JDRN
+          description: ""
           url: /jdrn-benefits
         - title: Deliverables
-          description: Deliverables of JDRN
+          description: ""
           url: /jdrn-deliverables
       button: Contact Us
       url: /contact-us
