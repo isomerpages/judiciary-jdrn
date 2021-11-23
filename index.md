@@ -23,7 +23,7 @@ sections:
       url: /contact-us
       subtitle: An international network of judiciaries
   - infobar:
-      title: "An international network of judiciaries "
+      title: Judge-led early resolution of disputes
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
