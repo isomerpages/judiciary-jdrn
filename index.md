@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Judicial Dispute Resolution Network
-      subtitle: An international network of judiciaries
       background: /images/hero-banner.png
       key_highlights:
         - title: Introduction
@@ -20,9 +19,6 @@ sections:
         - title: Benefits
           description: ""
           url: /jdrn-benefits
-        - title: Deliverables
-          description: ""
-          url: /jdrn-deliverables
       button: Contact Us
       url: /contact-us
   - infobar:
@@ -47,4 +43,8 @@ sections:
       description: Infopic description 2
       button: Button Text
       alt: Image alt text
+  - infobar:
+      title: "An international network of judiciaries "
+      description: Infobar description
+      button: Button Text
 ---
