@@ -22,7 +22,7 @@ sections:
       button: Contact Us
       url: /contact-us
   - infobar:
-      title: Infobar title
+      title: "An international network of judiciaries "
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
