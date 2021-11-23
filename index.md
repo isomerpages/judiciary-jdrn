@@ -21,6 +21,7 @@ sections:
           url: /jdrn-benefits
       button: Contact Us
       url: /contact-us
+      subtitle: An international network of judiciaries
   - infobar:
       title: "An international network of judiciaries "
       subtitle: Subtitle
