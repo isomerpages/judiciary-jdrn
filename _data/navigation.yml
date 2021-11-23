@@ -2,19 +2,9 @@ logo: /images/favicon-isomer.ico
 links:
   - title: About Us
     collection: about-us
-  - title: Initiatives
-    collection: initiatives
   - title: News and events
     resource_room: true
-  - title: Materials
-    collection: materials
   - title: Resources
     collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: Introduction To Jdrn
-    collection: introduction-to-jdrn
-  - title: Objectives Of The Jdrn
-    collection: objectives-of-the-jdrn
-  - title: Benefits Of Jdr
-    collection: benefits-of-jdr
