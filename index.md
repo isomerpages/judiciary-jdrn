@@ -44,7 +44,6 @@ sections:
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: "An international network of judiciaries "
       description: Infobar description
       button: Button Text
 ---
