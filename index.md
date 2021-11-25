@@ -10,17 +10,15 @@ sections:
       title: Judicial Dispute Resolution Network
       background: /images/hero-banner.png
       key_highlights:
-        - title: Introduction
-          description: ""
-          url: /jdrn-intro
         - title: Objectives
           description: ""
           url: /jdrn-obj
         - title: Benefits
           description: ""
           url: /jdrn-benefits
-      button: Contact Us
-      url: /contact-us
+        - title: Introduction to JDR
+          description: Key Highlight description
+          url: ""
       subtitle: An international network of judiciaries
   - infobar:
       title: Judge-led early resolution of disputes
