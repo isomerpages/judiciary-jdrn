@@ -19,9 +19,8 @@ sections:
         - title: Introduction to JDR
           description: ""
           url: ""
-      subtitle: An international network of judiciaries
   - infobar:
-      title: Judge-led early resolution of disputes
+      title: An international network of judiciaries
   - resources:
       title: Media
       subtitle: Learn more
