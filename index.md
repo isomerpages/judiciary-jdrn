@@ -22,10 +22,6 @@ sections:
       subtitle: An international network of judiciaries
   - infobar:
       title: Judge-led early resolution of disputes
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
