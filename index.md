@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /jdrn-benefits
         - title: Introduction to JDR
-          description: Key Highlight description
+          description: ""
           url: ""
       subtitle: An international network of judiciaries
   - infobar:
@@ -26,19 +26,4 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic Title 2
-      subtitle: Infopic Subtitle 2
-      description: Infopic description 2
-      button: Button Text
-      alt: Image alt text
-  - infobar:
-      description: Infobar description
-      button: Button Text
 ---
