@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - who-we-are/.keep
-      - who-we-are/our-team.md
       - who-we-are/our-members.md
