@@ -1,4 +1,5 @@
 collections:
   resources2:
     output: true
-    order: []
+    order:
+      - JDRN Modalities.md
