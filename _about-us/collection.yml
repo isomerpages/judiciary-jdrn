@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - who-we-are/JDRN.md
       - who-we-are/.keep
