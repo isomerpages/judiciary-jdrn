@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Current News.md
-      - Current News/.keep
       - Announcements/.keep
       - Archived News/.keep
