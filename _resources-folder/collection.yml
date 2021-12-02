@@ -2,5 +2,6 @@ collections:
   resources-folder:
     output: true
     order:
+      - Capacity Building and Training.md
       - Best Practice Standards.md
       - JDRN Modalities.md
