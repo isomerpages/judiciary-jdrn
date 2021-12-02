@@ -1,6 +1,0 @@
-collections:
-  resources2:
-    output: true
-    order:
-      - Best Practice Standards.md
-      - JDRN Modalities.md
