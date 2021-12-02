@@ -3,7 +3,4 @@ title: JDR Modalities
 permalink: /resources
 description: ""
 ---
-
-
-
-JDRN Modalities
+JDR Modalities
