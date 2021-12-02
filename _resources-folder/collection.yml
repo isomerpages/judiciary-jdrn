@@ -2,6 +2,7 @@ collections:
   resources-folder:
     output: true
     order:
+      - Communications and Discussions.md
       - Capacity Building and Training.md
       - Best Practice Standards.md
       - JDRN Modalities.md
