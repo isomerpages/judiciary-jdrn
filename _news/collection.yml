@@ -4,5 +4,4 @@ collections:
     order:
       - Announcements.md
       - Current News.md
-      - Announcements/.keep
       - Archived News/.keep
