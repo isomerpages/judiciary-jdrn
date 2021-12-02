@@ -1,5 +1,5 @@
 collections:
-  materials:
+  announcements:
     output: true
     order:
       - keynote-address.md
