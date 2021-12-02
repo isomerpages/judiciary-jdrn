@@ -3,7 +3,5 @@ collections:
     output: true
     order:
       - Our Members.md
-      - Our Members/Our Members.md
-      - Our Members/.keep
       - Who we are/Who We Are.md
       - Who we are/.keep
