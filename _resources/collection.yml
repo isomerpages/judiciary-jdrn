@@ -1,8 +1,0 @@
-collections:
-  resources:
-    output: true
-    order:
-      - JDRN Modalities.md
-      - Best Practice Standards.md
-      - Capacity Building and Training.md
-      - Communications and Discussions.md
