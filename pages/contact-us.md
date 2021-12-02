@@ -16,7 +16,7 @@ locations:
         time: 8.30am - 12.00pm
         description: ""
     maps_link: ""
-    title: Main Office
+    title: Secretariat
 contacts:
   - content:
       - phone: +65 6123 4567
