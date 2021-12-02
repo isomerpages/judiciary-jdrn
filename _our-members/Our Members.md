@@ -3,8 +3,6 @@ title: Our Members
 permalink: /permalink
 description: ""
 ---
-
-
 In alphabetical order of country:
 Australia (Federal Court of Australia)
 Canada (Court of Appeal of Quebec & Superior Court of Ontario)
