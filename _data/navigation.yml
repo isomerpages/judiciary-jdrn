@@ -1,7 +1,5 @@
 logo: /images/JDRN%20New%20logo.png
 links:
-  - title: About Us
-    url: /permalink
   - title: "News "
     resource_room: true
   - title: Resources
@@ -10,3 +8,5 @@ links:
     url: /contact-us/
   - title: Our members
     url: /permalink
+  - title: About Us
+    collection: resources
