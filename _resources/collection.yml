@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Communications and Discussions.md
       - JDRN Modalities.md
       - Best Practice Standards.md
       - communications-and-discussions.md
