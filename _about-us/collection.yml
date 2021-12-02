@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - about-us.md
       - who-we-are/.keep
       - who-we-are/our-history.md
       - who-we-are/our-team.md
