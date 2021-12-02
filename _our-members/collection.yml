@@ -1,5 +1,4 @@
 collections:
   our-members:
     output: true
-    order:
-      - Our Members.md
+    order: []
