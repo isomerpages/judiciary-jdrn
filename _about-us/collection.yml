@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - who-we-are/Example Title.md
       - who-we-are/About Us.md
       - who-we-are/.keep
