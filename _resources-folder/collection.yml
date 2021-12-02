@@ -1,0 +1,4 @@
+collections:
+  resources-folder:
+    output: true
+    order: []
