@@ -16,9 +16,6 @@ sections:
         - title: Benefits
           description: ""
           url: /jdrn-benefits
-        - title: Introduction to JDR
-          description: ""
-          url: ""
   - infobar:
       title: An international network of judiciaries
   - resources:
