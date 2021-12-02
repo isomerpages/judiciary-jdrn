@@ -8,5 +8,5 @@ links:
     collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: OUR MEMBERS
-    url: /permalink
+  - title: Our Members
+    collection: about-us
