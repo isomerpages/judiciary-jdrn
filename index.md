@@ -18,8 +18,4 @@ sections:
           url: /jdrn-benefits
   - infobar:
       title: An international network of judiciaries
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
