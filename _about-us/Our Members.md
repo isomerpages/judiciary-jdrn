@@ -5,20 +5,22 @@ description: ""
 ---
 In alphabetical order of country:
 
-Australia (Federal Court of Australia)
+(a)	Federal Court of Australia
 
-Canada (Court of Appeal of Quebec & Superior Court of Ontario)
+(b)	Court of Appeal of Quebec, Canada 
 
-China (Supreme People’s Court)
+(c)	Superior Court of Ontario, Canada 
 
-Germany (Higher Regional Court of Berlin, The Kammergericht)
+(d)	The Supreme People's Court of the People's Republic of China
 
-India (Madras High Court, Tamil Nadu)
+(e)	The Kammergericht (Higher Regional Court), Berlin, Germany
 
-Malaysia (Federal Court of Malaysia)
+(f)	Madras High Court, Tamil Nadu, India
 
-Philippines (Philippines Supreme Court)
+(g)	Federal Court of Malaysia
 
-Singapore (Supreme Court & State Courts)
+(h)	Philippine Supreme Court
 
-United Kingdom (Judiciary of England and Wales)
+(i)	Judiciary of Singapore
+
+(j)	Judiciary of England and Wales, United Kingdom
