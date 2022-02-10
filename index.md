@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Judicial Dispute Resolution Network
+      title: International Judicial Dispute Resolution Network
       background: /images/hero-banner.png
       key_highlights:
         - title: Objectives
