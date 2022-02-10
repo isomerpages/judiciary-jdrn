@@ -25,11 +25,16 @@ sections:
       button: Button Text
       url: /jdrn-obj
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: BENEFITS
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: /jdrn-benefits
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
