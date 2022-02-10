@@ -19,7 +19,7 @@ sections:
   - infobar:
       title: An International Network of Judiciaries
   - infobar:
-      title: Infobar Title
+      title: Objectives
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
