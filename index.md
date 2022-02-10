@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /jdrn-benefits
   - infobar:
-      title: An international network of judiciaries
+      title: An International Network of Judiciaries
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
