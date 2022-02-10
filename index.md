@@ -23,6 +23,7 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+      url: /jdrn-obj
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
