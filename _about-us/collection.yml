@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Objectives of the JDRN.md
       - Who we are.md
       - Our Members.md
+      - Objectives of the JDRN.md
