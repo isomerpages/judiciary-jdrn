@@ -19,8 +19,8 @@ locations:
     title: Secretariat to the JDRN
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6955 0456
+      - email: StateCourts_CDR@statecourts.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
 ---
