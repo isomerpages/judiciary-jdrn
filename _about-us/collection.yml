@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Benefits of JDRN.md
       - Who we are.md
       - Our Members.md
       - Objectives of the JDRN.md
+      - Benefits of JDRN.md
