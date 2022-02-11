@@ -21,4 +21,11 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: "Objectives "
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: VIew link
+      url: gggg
+      alt: Image alt text
 ---
