@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Members.md
-      - Federal Court of Australia/Our Members.md
       - Federal Court of Australia/.keep
       - Who we are.md
       - Objectives of the JDRN.md
