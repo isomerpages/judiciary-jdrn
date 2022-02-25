@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: International Judicial Dispute Resolution Network
-      background: /images/hero-banner.png
+      background: /images/light blue background.jpg
   - infobar:
       title: An International Network of Judiciaries
   - infobar:
