@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Canada/Our Members.md
-      - Canada/.keep
       - Australia/.keep
       - Australia/Federal Court of Australia.md
       - Who we are.md
