@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Philippine/.keep
       - Malaysia/Federal Court of Malaysia.md
       - Malaysia/.keep
       - India/Madras High Court, Tamil Nadu, India.md
