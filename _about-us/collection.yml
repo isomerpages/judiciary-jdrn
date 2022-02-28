@@ -2,26 +2,26 @@ collections:
   about-us:
     output: true
     order:
-      - United Kingdom/Judiciary of England and Wales, United Kingdom.md
-      - United Kingdom/.keep
-      - Singapore/Judiciary of Singapore.md
-      - Singapore/.keep
-      - Philippine/Philippine Supreme Court.md
-      - Philippine/.keep
-      - Malaysia/Federal Court of Malaysia.md
-      - Malaysia/.keep
-      - India/Madras High Court, Tamil Nadu, India.md
-      - India/.keep
-      - Germany/The Kammergericht (Higher Regional Court), Berlin, Germany.md
-      - Germany/.keep
-      - China/The Supreme People's Court of the People's Republic of China.md
-      - China/.keep
-      - Canada/.keep
-      - Canada/Court of Appeal of Quebec, Canada .md
-      - Canada/Superior Court of Ontario, Canada .md
       - Our Members.md
       - Australia/.keep
       - Australia/Federal Court of Australia.md
+      - Canada/.keep
+      - Canada/Court of Appeal of Quebec, Canada .md
+      - Canada/Superior Court of Ontario, Canada .md
+      - China/.keep
+      - China/The Supreme People's Court of the People's Republic of China.md
+      - Germany/.keep
+      - Germany/The Kammergericht (Higher Regional Court), Berlin, Germany.md
+      - India/.keep
+      - India/Madras High Court, Tamil Nadu, India.md
+      - Malaysia/.keep
+      - Malaysia/Federal Court of Malaysia.md
+      - Philippine/.keep
+      - Philippine/Philippine Supreme Court.md
+      - Singapore/.keep
+      - Singapore/Judiciary of Singapore.md
+      - United Kingdom/.keep
+      - United Kingdom/Judiciary of England and Wales, United Kingdom.md
       - Who we are.md
       - Objectives of the JDRN.md
       - Benefits of JDR.md
