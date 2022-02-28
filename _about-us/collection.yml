@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Australia/Federal Court of Australia.md
-      - Australia/.keep
       - Our Members.md
+      - Australia/.keep
+      - Australia/Federal Court of Australia.md
       - Who we are.md
       - Objectives of the JDRN.md
       - Benefits of JDR.md
