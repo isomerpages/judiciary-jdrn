@@ -16,7 +16,7 @@ sections:
       description: To promote the early, amicable resolution of cases without going to
         trial through a judge-led case management processescription
       button: CLICK HERE
-      url: http
+      url: /about-us/Objectives
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
