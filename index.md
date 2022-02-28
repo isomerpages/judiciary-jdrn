@@ -12,10 +12,11 @@ sections:
   - infobar:
       title: An International Network of Judiciaries
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Objectives of the JDRN
+      description: To promote the early, amicable resolution of cases without going to
+        trial through a judge-led case management processescription
+      button: CLICK HERE
+      url: http
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
