@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Alphabetical List/.keep
-      - Federal Court of Australia.md
       - Court of Appeal of Quebec, Canada.md
       - Superior Court of Ontario, Canada.md
       - The Supreme People's Court of the People's Republic of China.md
