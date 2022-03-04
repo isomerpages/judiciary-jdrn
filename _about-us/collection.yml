@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Canada/.keep
-      - Canada/Court of Appeal of Quebec, Canada .md
-      - Canada/Superior Court of Ontario, Canada .md
       - China/.keep
       - China/The Supreme People's Court of the People's Republic of China.md
       - Germany/.keep
