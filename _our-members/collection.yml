@@ -2,6 +2,7 @@ collections:
   our-members:
     output: true
     order:
+      - Superior Court of Ontario, Canada.md
       - The Supreme People's Court of the People's Republic of China.md
       - The Kammergericht (Higher Regional Court), Berlin, Germany.md
       - Madras High Court, Tamil Nadu, India.md
