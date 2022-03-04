@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Who We Are.md
       - Objectives of the JDRN.md
       - Benefits of JDR.md
