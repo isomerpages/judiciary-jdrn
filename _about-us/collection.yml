@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - China/.keep
-      - China/The Supreme People's Court of the People's Republic of China.md
       - Germany/.keep
       - Germany/The Kammergericht (Higher Regional Court), Berlin, Germany.md
       - India/.keep
