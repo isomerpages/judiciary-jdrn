@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Australia1/.keep
-      - Our Members.md
       - Australia/.keep
       - Australia/Federal Court of Australia.md
       - Canada/.keep
