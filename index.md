@@ -18,10 +18,10 @@ sections:
       button: CLICK HERE
       url: /about-us/Objectives
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Inaugural Virtual Meeting of the JDRN
+      description: 18 & 19 May 2022
+      button: CLICK HERE
+      url: "http:"
   - infopic:
       title: "Objectives "
       subtitle: Infopic Subtitle
