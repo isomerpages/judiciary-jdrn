@@ -2,6 +2,7 @@ collections:
   our-members:
     output: true
     order:
+      - Our Members/Federal Court of Australia.md
       - Our Members/.keep
       - Court of Appeal of Quebec, Canada.md
       - Superior Court of Ontario, Canada.md
