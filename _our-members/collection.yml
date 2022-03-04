@@ -2,6 +2,7 @@ collections:
   our-members:
     output: true
     order:
+      - Alphabetical List/Judiciary of England and Wales, United Kingdom.md
       - Alphabetical List/Judiciary of Singapore.md
       - Alphabetical List/Philippine Supreme Court.md
       - Alphabetical List/Federal Court of Malaysia.md
