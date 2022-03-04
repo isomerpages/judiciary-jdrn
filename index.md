@@ -13,8 +13,8 @@ sections:
       title: An International Network of Judiciaries
   - infobar:
       title: Objectives of the JDRN
-      description: To promote the early, amicable resolution of cases without going to
-        trial through a judge-led case management processescription
+      description: Promoting the  early and amicable resolution of cases without need
+        for trial through judge-led case management processes
       button: CLICK HERE
       url: /about-us/Objectives
   - infobar:
