@@ -22,11 +22,4 @@ sections:
       description: 18 & 19 May 2022
       button: CLICK HERE
       url: "http:"
-  - infopic:
-      title: "Objectives "
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: VIew link
-      url: gggg
-      alt: Image alt text
 ---
