@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Philippines/.keep
-      - Philippines/Philippine Supreme Court.md
       - Singapore/.keep
       - Singapore/Judiciary of Singapore.md
       - United Kingdom/.keep
