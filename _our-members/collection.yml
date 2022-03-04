@@ -2,6 +2,7 @@ collections:
   our-members:
     output: true
     order:
+      - Our Members.md
       - Alphabetical List/.keep
       - Alphabetical List/Federal Court of Australia.md
       - Alphabetical List/Court of Appeal of Quebec, Canada.md
@@ -15,4 +16,3 @@ collections:
       - Alphabetical List/Philippine Supreme Court.md
       - Alphabetical List/Judiciary of Singapore.md
       - Alphabetical List/Judiciary of England and Wales, United Kingdom.md
-      - Our Members.md
