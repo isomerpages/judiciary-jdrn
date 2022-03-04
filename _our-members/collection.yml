@@ -3,15 +3,16 @@ collections:
     output: true
     order:
       - Our Members.md
-      - Our Members/Judiciary of England and Wales, United Kingdom.md
-      - Our Members/Judiciary of Singapore.md
-      - Our Members/Philippines Supreme Court.md
-      - Our Members/Federal Court of Malaysia.md
-      - Our Members/Madras High Court, Tamil Nadu, India.md
-      - Our Members/The Kammergericht (Higher Regional Court), Berlin, Germany.md
-      - Our Members/The Supreme People's Court of the People's Republic of
+      - List of members/Judiciary of England and Wales, United Kingdom.md
+      - List of members/Judiciary of Singapore.md
+      - List of members/Philippines Supreme Court.md
+      - List of members/Federal Court of Malaysia.md
+      - List of members/Madras High Court, Tamil Nadu, India.md
+      - List of members/The Kammergericht (Higher Regional Court), Berlin,
+        Germany.md
+      - List of members/The Supreme People's Court of the People's Republic of
         China.md
-      - Our Members/Superior Court of Ontario, Canada.md
-      - Our Members/Court of Appeal of Quebec, Canada.md
-      - Our Members/Federal Court of Australia.md
-      - Our Members/.keep
+      - List of members/Superior Court of Ontario, Canada.md
+      - List of members/Court of Appeal of Quebec, Canada.md
+      - List of members/Federal Court of Australia.md
+      - List of members/.keep
