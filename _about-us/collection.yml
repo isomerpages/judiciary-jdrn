@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Australia/.keep
-      - Australia/Federal Court of Australia.md
       - Canada/.keep
       - Canada/Court of Appeal of Quebec, Canada .md
       - Canada/Superior Court of Ontario, Canada .md
