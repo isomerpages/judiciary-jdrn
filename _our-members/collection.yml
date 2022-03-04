@@ -2,6 +2,8 @@ collections:
   our-members:
     output: true
     order:
+      - Our Members/The Supreme People's Court of the People's Republic of
+        China.md
       - Our Members/Superior Court of Ontario, Canada.md
       - Our Members/Court of Appeal of Quebec, Canada.md
       - Our Members/Federal Court of Australia.md
