@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - United Kingdom/.keep
-      - United Kingdom/Judiciary of England and Wales, United Kingdom.md
       - Who we are.md
       - Objectives of the JDRN.md
       - Benefits of JDR.md
