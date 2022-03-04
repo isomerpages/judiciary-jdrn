@@ -2,5 +2,6 @@ collections:
   our-members:
     output: true
     order:
+      - Judiciary of Singapore.md
       - Judiciary of England and Wales, United Kingdom.md
       - Our Members.md
