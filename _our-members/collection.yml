@@ -2,6 +2,7 @@ collections:
   our-members:
     output: true
     order:
+      - Alphabetical List/Court of Appeal of Quebec, Canada.md
       - Alphabetical List/Federal Court of Australia.md
       - Alphabetical List/.keep
       - Superior Court of Ontario, Canada.md
