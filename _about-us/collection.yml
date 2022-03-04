@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Germany/.keep
-      - Germany/The Kammergericht (Higher Regional Court), Berlin, Germany.md
       - India/.keep
       - India/Madras High Court, Tamil Nadu, India.md
       - Malaysia/.keep
