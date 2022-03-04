@@ -2,4 +2,5 @@ collections:
   our-members:
     output: true
     order:
+      - Judiciary of England and Wales, United Kingdom.md
       - Our Members.md
