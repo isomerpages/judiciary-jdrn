@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Singapore/.keep
-      - Singapore/Judiciary of Singapore.md
       - United Kingdom/.keep
       - United Kingdom/Judiciary of England and Wales, United Kingdom.md
       - Who we are.md
