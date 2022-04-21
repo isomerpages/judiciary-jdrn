@@ -16,7 +16,7 @@ sections:
       description: Promoting the  early and amicable resolution of cases without need
         for trial through judge-led case management processes
       button: CLICK HERE
-      url: /about-us/Objectives
+      url: /about-us/Mission
   - infobar:
       title: Inaugural Virtual Meeting of the JDRN
       description: 18 & 19 May 2022
