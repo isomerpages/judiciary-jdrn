@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Our Members.md
+      - Alphabetical List/United States District Court for the Southern District
+        of New York.md
       - Alphabetical List/.keep
       - Alphabetical List/Federal Court of Australia.md
       - Alphabetical List/Court of Appeal of Quebec, Canada.md
