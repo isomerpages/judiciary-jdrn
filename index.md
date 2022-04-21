@@ -9,8 +9,10 @@ sections:
   - hero:
       title: International Judicial Dispute Resolution Network
       background: /images/light blue background.jpg
-  - infobar:
+  - infopic:
       title: An International Network of Judiciaries
+      image: /images/Spinning globe with countries.gif
+      alt: Image alt text
   - infobar:
       title: Mission of the JDRN
       description: Promoting the  early and amicable resolution of cases without need
@@ -22,8 +24,4 @@ sections:
       description: 18 & 19 May 2022
       button: CLICK HERE
       url: "http:"
-  - infopic:
-      title: An International Network of Judiciaries
-      image: /images/Spinning globe with countries.gif
-      alt: Image alt text
 ---
