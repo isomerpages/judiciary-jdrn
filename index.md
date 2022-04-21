@@ -12,7 +12,7 @@ sections:
   - infobar:
       title: An International Network of Judiciaries
   - infobar:
-      title: Objectives of the JDRN
+      title: Mission of the JDRN
       description: Promoting the  early and amicable resolution of cases without need
         for trial through judge-led case management processes
       button: CLICK HERE
