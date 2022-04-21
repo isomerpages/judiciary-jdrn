@@ -22,4 +22,8 @@ sections:
       description: 18 & 19 May 2022
       button: CLICK HERE
       url: "http:"
+  - infopic:
+      title: An International Network of Judiciaries
+      image: /images/Spinning globe with countries.gif
+      alt: Image alt text
 ---
