@@ -14,7 +14,7 @@ Canada\
 
 China
 
-The Supreme People’s Court of the People’s Republic of China
+[The Supreme People’s Court of the People’s Republic of China](/our-members/China)
 
 Germany
 
