@@ -3,27 +3,35 @@ title: Our Members
 permalink: /our-members/our
 description: ""
 ---
-(a) Federal Court of Australia
+Australia
+Federal Court of Australia
 
-(b) Court of Appeal of Quebec, Canada
+Canada
+Court of Appeal of Quebec
 
-(c) Superior Court of Ontario, Canada
+Superior Court of Ontario
 
-(d) The Supreme People's Court of the People's Republic of China
+China
+The Supreme People’s Court of the People’s Republic of China
 
-(e) The Kammergericht (Higher Regional Court), Berlin, Germany
+Germany
+The Kammergericht (Higher Regional Court), Berlin
 
-(f) Madras High Court, Tamil Nadu, India
+India
+Madras High Court, Tamil Nadu
 
-(g) Federal Court of Malaysia
+Malaysia
+Federal Court of Malaysia
 
-(h) Philippine Supreme Court
+Philippines
+Philippine Supreme Court
 
-(i) Judiciary of Singapore
+Singapore
+Judiciary of Singapore
 
-(j) Judiciary of England and Wales, United Kingdom
+United Kingdom 
+Judiciary of England and Wales 
 
-(k) United States District Court for the Southern District of New York
+United States of America
+United States District Court for the Southern District of New York
 
-
-[Australia](/our-members/Aust)
