@@ -7,7 +7,7 @@ Australia
 [Federal Court of Australia](/our-members/Aust)
 
 Canada
-Court of Appeal of Quebec
+[Court of Appeal of Quebec](/our-members/canada1)
 
 Superior Court of Ontario
 
