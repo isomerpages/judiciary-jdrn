@@ -9,7 +9,7 @@ Australia
 Canada
 [Court of Appeal of Quebec](/our-members/canada1)
 
-Superior Court of Ontario
+[Superior Court of Ontario](/our-members/Canada)
 
 China
 The Supreme People’s Court of the People’s Republic of China
