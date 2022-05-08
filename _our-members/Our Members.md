@@ -38,7 +38,7 @@ Singapore
 
 United Kingdom 
 
-Judiciary of England and Wales 
+[Judiciary of England and Wales ](/our-members/UK)
 
 United States of America
 
