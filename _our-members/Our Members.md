@@ -26,7 +26,7 @@ India
 
 Malaysia
 
-Federal Court of Malaysia
+[Federal Court of Malaysia](/our-members/Malaysia)
 
 Philippines
 
