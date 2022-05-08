@@ -18,7 +18,7 @@ China
 
 Germany
 
-The Kammergericht (Higher Regional Court), Berlin
+[The Kammergericht (Higher Regional Court), Berlin](/our-members/Germany)
 
 India
 
