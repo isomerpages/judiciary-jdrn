@@ -34,7 +34,7 @@ Philippines
 
 Singapore
 
-Judiciary of Singapore
+[Judiciary of Singapore](/our-members/SG)
 
 United Kingdom 
 
