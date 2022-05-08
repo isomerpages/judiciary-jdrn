@@ -22,7 +22,7 @@ Germany
 
 India
 
-Madras High Court, Tamil Nadu
+[Madras High Court, Tamil Nadu](/our-members/India)
 
 Malaysia
 
