@@ -22,9 +22,6 @@ Germany
 
 [The Kammergericht (Higher Regional Court), Berlin](/our-members/Germany)
 
-India
-
-[Madras High Court, Tamil Nadu](/our-members/India)
 
 Malaysia
 
