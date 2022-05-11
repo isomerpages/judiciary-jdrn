@@ -3,17 +3,17 @@ collections:
     output: true
     order:
       - Our Members.md
-      - Alphabetical List/.keep
-      - Alphabetical List/Federal Court of Australia.md
-      - Alphabetical List/Court of Appeal of Quebec, Canada.md
-      - Alphabetical List/Superior Court of Ontario, Canada.md
-      - Alphabetical List/The Supreme People's Court of the People's Republic of
+      - Member Index/.keep
+      - Member Index/Federal Court of Australia.md
+      - Member Index/Court of Appeal of Quebec, Canada.md
+      - Member Index/Superior Court of Ontario, Canada.md
+      - Member Index/The Supreme People's Court of the People's Republic of
         China.md
-      - Alphabetical List/The Kammergericht (Higher Regional Court), Berlin,
+      - Member Index/The Kammergericht (Higher Regional Court), Berlin,
         Germany.md
-      - Alphabetical List/Federal Court of Malaysia.md
-      - Alphabetical List/Philippine Supreme Court.md
-      - Alphabetical List/Judiciary of Singapore.md
-      - Alphabetical List/Judiciary of England and Wales, United Kingdom.md
-      - Alphabetical List/United States District Court for the Southern District
-        of New York.md
+      - Member Index/Federal Court of Malaysia.md
+      - Member Index/Philippine Supreme Court.md
+      - Member Index/Judiciary of Singapore.md
+      - Member Index/Judiciary of England and Wales, United Kingdom.md
+      - Member Index/United States District Court for the Southern District of
+        New York.md
