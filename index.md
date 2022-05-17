@@ -20,7 +20,7 @@ sections:
       button: CLICK HERE
       url: /about-us/Mission
   - infobar:
-      title: Inaugural Virtual Meeting of the JDRN
+      title: Inaugural Meeting of the JDRN
       description: 18 & 19 May 2022
       button: CLICK HERE
       url: "http:"
