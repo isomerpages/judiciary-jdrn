@@ -22,7 +22,7 @@ Judiciary of Germany
 
 [Higher Regional Court/Court of Appeal (Kammergericht) Berlin](/our-members/Germany)
 
-Berlin Regional Court
+[Berlin Regional Court](/our-members/Member-Index/BerRegCt)
 
 
 Malaysia
