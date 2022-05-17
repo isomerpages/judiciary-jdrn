@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Members.md
-      - Member Index/Berlin Regional Court.md
       - Member Index/.keep
       - Member Index/Federal Court of Australia.md
       - Member Index/Court of Appeal of Quebec.md
@@ -12,6 +11,7 @@ collections:
         China.md
       - Member Index/Higher Regional Court,Court of Appeal (Kammergericht)
         Berlin.md
+      - Member Index/Berlin Regional Court.md
       - Member Index/Federal Court of Malaysia.md
       - Member Index/Philippine Supreme Court.md
       - Member Index/Judiciary of Singapore.md
