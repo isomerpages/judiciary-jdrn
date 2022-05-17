@@ -9,18 +9,20 @@ Australia
 
 [Federal Court of Australia](/our-members/Aust)
 
-Canada\
+Judiciary of Canada\
 [Court of Appeal of Quebec](/our-members/canada1)
 
-[Superior Court of Ontario](/our-members/Canada)
+[Ontario Superior Court of Justice](/our-members/Canada)
 
 China
 
 [The Supreme People’s Court of the People’s Republic of China](/our-members/China)
 
-Germany
+Judiciary of Germany
 
-[The Kammergericht (Higher Regional Court), Berlin](/our-members/Germany)
+[Higher Regional Court/Court of Appeal (Kammergericht) Berlin](/our-members/Germany)
+
+Berlin Regional Court
 
 
 Malaysia
@@ -29,7 +31,7 @@ Malaysia
 
 Philippines
 
-[Philippine Supreme Court](/our-members/PP)
+[Supreme Court of the Philippines](/our-members/PP)
 
 Singapore
 
