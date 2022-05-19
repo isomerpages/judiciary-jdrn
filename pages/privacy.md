@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 ### **Privacy Statement**
 
-Privacy Statement
+
 
 1.	This is a Judicial Dispute Resolution Network (“JDRN”) website. The JDRN Secretariat is based in the State Courts of Singapore, which are part of the Judiciary of Singapore.
 2.	If you are only browsing this website, we do not capture data that allows us to identify you individually.
