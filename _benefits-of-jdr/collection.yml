@@ -2,5 +2,4 @@ collections:
   benefits-of-jdr:
     output: true
     order:
-      - sample.md
       - Benefits of JDR.md
