@@ -3,8 +3,4 @@ title: Who We Are
 permalink: /about-us/who
 description: ""
 ---
-The International JDRN is an international network of judiciaries working together to promote the early resolution of disputes by judge-led dispute resolution processes.
-
-The trial process and the process of getting to trial is long and expensive. Poorer litigants and litigants with smaller value claims are not well served by a judicial system that requires that they go to trial.
-
-We are a group of judiciaries that have seen the value in offering litigants alternatives to trials for dispute resolution and are working together to promote the wider use of these other modalities.
+The JDRN is a non-binding and voluntary group of like-minded judiciaries which collectively seek to promote the early, amicable and cost-effective resolution of court disputes through the Judicial Dispute Resolution (“JDR”) process to achieve fair outcomes for litigants without having to go to trial.  Members of the JDRN work together to drive the pursuit of the mission, objectives and goals of the network.  
