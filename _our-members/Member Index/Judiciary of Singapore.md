@@ -6,7 +6,7 @@ third_nav_title: Member Index
 ---
 Website
 
-[SG Courts](https://www.judiciary.gov.sg/)
+[Judiciary of Singapore](https://www.judiciary.gov.sg/)
 
 
 Country Report
