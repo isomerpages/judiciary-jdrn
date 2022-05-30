@@ -4,11 +4,11 @@ links:
     collection: about-us
   - title: Our Members
     collection: our-members
+  - title: Join Us
+    collection: join-us
   - title: News
     collection: news
   - title: Resources
     collection: resources-folder
   - title: Contact Us
     url: /contact-us/
-  - title: Join Us
-    collection: join-us
