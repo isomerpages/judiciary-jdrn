@@ -9,4 +9,4 @@ Any court or judiciary which would like to be considered as an Observer of the J
 
 (a)	Written nomination by a current member of the JDRN; or
 
-(b)	Written application to be submitted to the Secretariat of the JDRN.
+(b)	Written application to be submitted to the [Secretariat of the JDRN](/contact-us/).
