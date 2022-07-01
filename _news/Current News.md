@@ -3,6 +3,4 @@ title: Current News
 permalink: /currentnews/permalink
 description: ""
 ---
-
-
-Test
+### This page will be updated soon
