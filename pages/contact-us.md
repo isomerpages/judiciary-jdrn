@@ -9,7 +9,7 @@ locations:
       - Singapore 059724
       - Republic of Singapore
     operating_hours: []
-    maps_link: https://goo.gl/maps/SpJMF2p7MSEaFhRD6
+    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.28629869541716&lng=103.843470477462
     title: Secretariat to the JDRN
 contacts:
   - content:
