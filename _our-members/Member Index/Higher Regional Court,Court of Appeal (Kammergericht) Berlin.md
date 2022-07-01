@@ -4,6 +4,4 @@ permalink: /our-members/Germany
 description: ""
 third_nav_title: Member Index
 ---
-
-
-
+[Kammergericht](https://www.berlin.de/gerichte/kammergericht/)
