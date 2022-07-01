@@ -3,9 +3,4 @@ title: Announcements
 permalink: /news/permalink
 description: ""
 ---
-
-
-
-
-
-Test
+### This page will be updated soon
