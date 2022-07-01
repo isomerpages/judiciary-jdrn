@@ -3,4 +3,4 @@ title: Current News
 permalink: /currentnews/permalink
 description: ""
 ---
-### This page will be updated soon
+##### [Inaugural Meeting of the JDRN](/inaugural-meeting-of-the-jdrn/permalink)
