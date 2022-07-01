@@ -3,8 +3,6 @@ title: Benefits of JDR
 permalink: /about-us/benefits
 description: ""
 ---
-
-
 (a) Cases are resolved early, thus saving parties’ time.
 
 (b) Legal costs are saved by parties.
