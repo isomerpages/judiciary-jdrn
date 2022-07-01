@@ -16,7 +16,3 @@ third_nav_title: Member Index
 
 ##### [Opening Speech by the Honourable Justice Vincent Hoong](/files/Singapore%20-%20Speech.pdf)
 
-
-![Photos]()
-
-
