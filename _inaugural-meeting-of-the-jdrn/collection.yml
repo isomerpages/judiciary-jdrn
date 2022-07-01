@@ -1,4 +1,6 @@
 collections:
   inaugural-meeting-of-the-jdrn:
     output: true
-    order: []
+    order:
+      - Opening Address by The Honourable The Chief Justice of Singapore
+        Sundaresh Menon.md
