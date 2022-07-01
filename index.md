@@ -23,5 +23,5 @@ sections:
       title: Inaugural Meeting of the JDRN
       description: 18 & 19 May 2022
       button: CLICK HERE
-      url: "http:"
+      url: /inaugural-meeting-of-the-jdrn/permalink
 ---
