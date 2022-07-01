@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: State Courts JDRN Test Page
+title: JDRN
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: CLICK HERE
       url: /inaugural-meeting-of-the-jdrn/permalink
 ---
+
