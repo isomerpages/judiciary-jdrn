@@ -3,14 +3,4 @@ title: Best Practice Standards
 permalink: /resources/permalink
 description: ""
 ---
-
-
-
-
-
-
-
-
-
-
-Best Practice Standards
+###  This page will be updated soon
