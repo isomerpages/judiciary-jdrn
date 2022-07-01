@@ -9,7 +9,7 @@ locations:
       - Singapore 059724
       - Republic of Singapore
     operating_hours: []
-    maps_link: https://yoursingaporemap.com/address/1-Havelock-Square-Singapore-059724
+    maps_link: ""
     title: Secretariat to the JDRN
 contacts:
   - content:
