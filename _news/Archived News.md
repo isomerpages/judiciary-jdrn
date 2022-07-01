@@ -3,7 +3,4 @@ title: Archived News
 permalink: /news
 description: ""
 ---
-
-
-
-Test
+### This page will be updated soon
