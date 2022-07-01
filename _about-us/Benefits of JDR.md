@@ -3,16 +3,14 @@ title: Benefits of JDR
 permalink: /about-us/benefits
 description: ""
 ---
-(a) Cases are resolved early, thus saving parties’ time.
+(a)          An early, amicable resolution of the court dispute.
 
-(b) Legal costs are saved by parties.
+(b)          An amicable settlement that aids in the preservation of commercial or personal relationships.
 
-(c) The uncertainty over the outcome is avoided for parties.
+(c)           A cost-effective resolution of the court dispute.
 
-(d) Parties have autonomy and control over the outcome, instead of having a decision imposed on them.
+(d)          An enforceable outcome for parties.
 
-(e) An amicable resolution of the case can preserve the relationship between parties.
+(e)          Promotes the effective use and deployment of scarce judicial resources.
 
-(f) Creative solutions can be used by the court and parties to resolve the dispute.
-
-(g) Judicial resources can be saved and more optimally deployed.
+(f)           Effective management of judicial caseload.
