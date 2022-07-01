@@ -12,3 +12,6 @@ Website
 Country Report
 
 [](/files/SG%20Country%20Report.pdf)
+
+
+[Opening Speech by the Honourable Justice Vincent Hoong](/files/Singapore%20-%20Speech.pdf)
