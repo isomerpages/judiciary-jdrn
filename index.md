@@ -25,4 +25,3 @@ sections:
       button: CLICK HERE
       url: /inaugural-meeting-of-the-jdrn/permalink
 ---
-
