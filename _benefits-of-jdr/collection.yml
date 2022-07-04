@@ -1,0 +1,5 @@
+collections:
+  benefits-of-jdr:
+    output: true
+    order:
+      - Benefits of JDR.md

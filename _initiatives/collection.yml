@@ -1,0 +1,6 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - jdrn-best-practices-guide.md
+      - modalities.md

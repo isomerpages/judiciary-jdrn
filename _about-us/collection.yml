@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Who We Are.md
+      - Our Mission.md
+      - Benefits of JDR.md
