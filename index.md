@@ -11,7 +11,7 @@ sections:
       background: /images/light blue background.jpg
   - infopic:
       title: An International Network of Judiciaries
-      image: /images/Spinning globe with countries.gif
+      image: /images/Spinning globe 4 (002).gif
       alt: Image alt text
   - infobar:
       title: Mission of the JDRN
@@ -25,4 +25,3 @@ sections:
       button: CLICK HERE
       url: /inaugural-meeting-of-the-jdrn/permalink
 ---
-
