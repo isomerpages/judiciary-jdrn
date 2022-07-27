@@ -29,7 +29,7 @@ sections:
       button: Click Here
       url: /our-members/our
   - infobar:
-      title: Join the JDRN as a M ember or an Observere
+      title: Join the JDRN as a Member or an Observer
       button: Click here
       url: /join-us
 ---
