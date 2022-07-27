@@ -15,8 +15,8 @@ sections:
       alt: Image alt text
   - infobar:
       title: Mission of the JDRN
-      description: Promoting the early and amicable resolution of cases through
-        judge-led case management and dispute resolution processes
+      description: Promoting the early, amicable resolution of cases through judge-led
+        case management and Court ADR modalities
       button: CLICK HERE
       url: /about-us/Mission
   - infobar:
