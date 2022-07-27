@@ -24,4 +24,12 @@ sections:
       description: 18 & 19 May 2022
       button: CLICK HERE
       url: /inaugural-meeting-of-the-jdrn/permalink
+  - infobar:
+      title: Our Founding Members
+      button: Click Here
+      url: /our-members/our
+  - infobar:
+      title: Join the JDRN as a Member or an Observer
+      button: Click here
+      url: /join-us/asmember
 ---
