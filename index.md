@@ -28,4 +28,8 @@ sections:
       title: Our Founding Members
       button: Click Here
       url: /our-members/our
+  - infobar:
+      title: Join the JDRN as a M ember or an Observere
+      button: Click here
+      url: /join-us
 ---
