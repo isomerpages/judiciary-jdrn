@@ -31,5 +31,5 @@ sections:
   - infobar:
       title: Join the JDRN as a Member or an Observer
       button: Click here
-      url: /join-us/
+      url: /join-us/asmember
 ---
