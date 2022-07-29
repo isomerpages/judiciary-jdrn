@@ -9,10 +9,8 @@ sections:
   - hero:
       title: International Judicial Dispute Resolution Network
       background: /images/light blue background.jpg
-  - infopic:
+  - infobar:
       title: An International Network of Judiciaries
-      image: /images/Spinning globe 4 (002).gif
-      alt: Image alt text
   - infobar:
       title: Mission of the JDRN
       description: Promoting the early, amicable resolution of cases through judge-led
@@ -32,9 +30,4 @@ sections:
       title: Join the JDRN as a Member or an Observer
       button: Click here
       url: /join-us/asmember
-  - infopic:
-      title: An International Network of Judiciaries
-      alt: Image alt text
-  - infobar:
-      title: An International Network of Judiciaries
 ---
