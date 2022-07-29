@@ -32,4 +32,7 @@ sections:
       title: Join the JDRN as a Member or an Observer
       button: Click here
       url: /join-us/asmember
+  - infopic:
+      title: An International Network of Judiciaries
+      alt: Image alt text
 ---
