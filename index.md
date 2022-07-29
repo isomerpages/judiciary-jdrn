@@ -35,4 +35,6 @@ sections:
   - infopic:
       title: An International Network of Judiciaries
       alt: Image alt text
+  - infobar:
+      title: An International Network of Judiciaries
 ---
