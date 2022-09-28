@@ -1,6 +1,6 @@
 ---
 title: Judiciary of Singapore
-permalink: /our-members/SG
+permalink: /our-members/SG/
 description: ""
 third_nav_title: Member Index
 ---
@@ -12,7 +12,4 @@ third_nav_title: Member Index
 
 ##### [Country Report](/files/SG%20Country%20Report.pdf)
 
-
-
-##### [Opening Speech by the Honourable Justice Vincent Hoong](/files/Singapore%20-%20Speech.pdf)
 
