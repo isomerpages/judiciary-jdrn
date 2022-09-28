@@ -13,4 +13,3 @@ third_nav_title: Member Index
 
 
 
-##### [Opening Speech by Mrs Anne-Ruth Moltmann-Willisch (former judge)](/files/Berlin%20Regional%20Court%20-%20Speech.pdf)
