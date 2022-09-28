@@ -22,4 +22,5 @@ description: ""
 ##### [Opening Speech by District Judge Philip M. Halpern](/files/JDRN%20Halpern%20speech.pdf)
 
 
+
 ![](/images/Official%20group%20photograph%20-%20Final.jpg)
