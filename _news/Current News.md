@@ -7,3 +7,5 @@ description: ""
 
 ##### Media Release
 [New global network of judiciaries to enhance the administration and delivery of justice ](/files/International%20Judicial%20Dispute%20Resolution%20Network%20Media%20Release.pdf)
+
+[Annex A - Frequently Asked Questions](/files/Annex%20A%20FAQs%20International%20Judicial%20Dispute%20Resolution%20Network.pdf)
