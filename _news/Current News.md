@@ -7,7 +7,4 @@ description: ""
 
 ##### Media Release
 
-[New global network of judiciaries set up to enhance the administration and delivery of justice]()
-
-
-[New global network of judiciaries set up to enhance the administration and delivery of justice ]()
+[New global network of judiciaries to enhance the administration and delivery of justice ](/files/Media%20Releae.pdf)
