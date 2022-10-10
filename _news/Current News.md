@@ -8,3 +8,6 @@ description: ""
 ##### Media Release
 
 [New global network of judiciaries to enhance the administration and delivery of justice ](/files/Media%20Releae.pdf)
+
+
+##### [Singapore’s Judiciary Times featuring the JDRN](/files/Judiciary%20Times-compressed.pdf)
