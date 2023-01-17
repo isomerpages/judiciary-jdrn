@@ -31,9 +31,10 @@ sections:
       button: Click here
       url: /join-us/asmember
   - infobar:
-      title: Infobar Title
+      title: Best Practice Guide
       subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      description: For the  Establishment, Implementation & Promotion of the Judicial
+        Dispute Resolution Process
+      button: CLICK HERE
       url: /resources/permalink/
 ---
