@@ -30,4 +30,10 @@ sections:
       title: Join the JDRN as a Member or an Observer
       button: Click here
       url: /join-us/asmember
+  - infobar:
+      title: Best Practice Guide
+      description: For the  Establishment, Implementation & Promotion of the Judicial
+        Dispute Resolution Process
+      button: CLICK HERE
+      url: /resources/permalink/
 ---
