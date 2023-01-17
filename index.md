@@ -30,4 +30,10 @@ sections:
       title: Join the JDRN as a Member or an Observer
       button: Click here
       url: /join-us/asmember
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+      url: /resources/permalink/
 ---
