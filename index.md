@@ -32,7 +32,6 @@ sections:
       url: /join-us/asmember
   - infobar:
       title: Best Practice Guide
-      subtitle: Infobar Subtitle
       description: For the  Establishment, Implementation & Promotion of the Judicial
         Dispute Resolution Process
       button: CLICK HERE
