@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6955 0456
-      - email: JDRN_Secretariat@statecourts.gov.sg
+      - email: JDRN_SECRETARIAT@judiciary.gov.sg
       - other: ""
     title: General Enquiries & Feedback
 ---
