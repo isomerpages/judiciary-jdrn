@@ -7,7 +7,8 @@ description: ""
 
 ##### [Opening Address by The Honourable The Chief Justice of Singapore Sundaresh Menon](/files/2022-05-18%20-%20Inaugural%20JDRN%20Meeting%20Opening%20Address.pdf)
 
-##### [Opening Speech by the Honourable Justice Thomas McEwen](/files/Berlin%20Regional%20Court%20-%20Speech.pdf)
+##### [Opening Speech by the Honourable Justice Thomas McEwen](/files/Ontario%20Superior%20Court%20of%20Justice%20Video%20Transcription%20(25-35%20min)_Opening%20Speech.pdf)
+
 
 ##### [Opening Speech by the Honourable Justice Yang Wanming](/files/The%20Supreme%20People’s%20Court%20of%20The%20People’s%20Republic%20of%20China%20-%20opening%20speech.pdf)
 
