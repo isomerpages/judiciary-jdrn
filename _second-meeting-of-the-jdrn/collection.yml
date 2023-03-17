@@ -1,5 +1,0 @@
-collections:
-  second-meeting-of-the-jdrn:
-    output: true
-    order:
-      - Example Title.md
