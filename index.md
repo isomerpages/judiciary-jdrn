@@ -12,6 +12,11 @@ sections:
   - infobar:
       title: An International Network of Judiciaries
   - infobar:
+      title: Second Meeting of the JDRN
+      description: 22 & 23 May 2023, New York City
+      button: CLICK HERE
+      url: /second-meeting-of-the-jdrn/permalink
+  - infobar:
       title: Mission of the JDRN
       description: Promoting the early, amicable resolution of cases through judge-led
         case management and Court ADR modalities
