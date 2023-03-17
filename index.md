@@ -36,4 +36,9 @@ sections:
         Dispute Resolution Process
       button: CLICK HERE
       url: /resources/permalink/
+  - infobar:
+      title: Second Meeting of the JDRN
+      description: 22 & 23 May 2023, New York City
+      button: CLICK HERE
+      url: /second-meeting-of-the-jdrn/permalink
 ---
