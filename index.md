@@ -16,6 +16,10 @@ sections:
       description: will be held on 22 & 23 May 2023 in New York City
       url: /second-meeting-of-the-jdrn/permalink
   - infobar:
+      title: Apply to Join the JDRN as a Member or an Observer
+      button: Click here
+      url: /join-us/asmember
+  - infobar:
       title: Mission of the JDRN
       description: Promoting the early, amicable resolution of cases through judge-led
         case management and Court ADR modalities
@@ -30,10 +34,6 @@ sections:
       title: Our Founding Members
       button: Click Here
       url: /our-members/our
-  - infobar:
-      title: Join the JDRN as a Member or an Observer
-      button: Click here
-      url: /join-us/asmember
   - infobar:
       title: Best Practice Guide
       description: For the  Establishment, Implementation & Promotion of the Judicial
