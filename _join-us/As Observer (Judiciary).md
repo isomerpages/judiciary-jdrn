@@ -3,10 +3,11 @@ title: As Observer (Judiciary)
 permalink: /join-us/asobserver/
 description: ""
 ---
-Courts or judiciaries which are interested in adopting the JDR process and in participating in the relevant activities of the JDRN, but which may not have the necessary expertise and experience in the JDR process, may be accorded Observer status of the JDRN.
+The Judicial Dispute Resolution (JDR) process refers to the proactive, judge-led management of cases, twinned with the use of a range of Court Alternative Dispute Resolution modalities to achieve the resolution of court disputes in full or in part so that judicial time is saved.
 
-Any court or judiciary which would like to be considered as an Observer of the JDRN can apply through:
+A court or judiciary which is interested in learning about and adopting the JDR process and in participating in the activities of the JDRN may apply to join the JDRN as an Observer (Judiciary).
 
-(a)	Written nomination by a current member of the JDRN; or
+Please complete this form and send to: [JDRN\_SECRETARIAT@judiciary.gov.sg](mailto:JDRN_SECRETARIAT@judiciary.gov.sg).
 
-(b)	Written application to be submitted to the [Secretariat of the JDRN](/contact-us/).
+
+##### [Application to Join as Observer (Judiciary)](/files/appln%20form%20to%20be%20an%20jdrn%20observer(jud)_9apr23.pdf)
