@@ -1,12 +1,12 @@
 ---
 title: As Member
-permalink: /join-us/asmember
+permalink: /join-us/asmember/
 description: ""
 ---
-A member of the JDRN should have the relevant expertise and necessary experience in the JDR process, and have integrated the JDR process into its judicial process as a key component of case management. 
+The Judicial Dispute Resolution (JDR) process refers to the proactive, judge-led management of cases, twinned with the use of a range of Court Alternative Dispute Resolution modalities to achieve the resolution of court disputes in full or in part so that judicial time is saved.
 
-Any court or judiciary which would like to be considered for membership to the JDRN can apply for membership through:
+A court or judiciary which has experience in the JDR process and has integrated it into its judicial process as a key component of case management may apply for membership of the JDRN.
 
-(a)	Written nomination by a current member of the JDRN; or
+Please complete this form and send to: [JDRN\_SECRETARIAT@judiciary.gov.sg](mailto:JDRN_SECRETARIAT@judiciary.gov.sg).
 
-(b)	Written application to be submitted to the [Secretariat of the JDRN](/contact-us/).
+###### [Application to Join as Member](/files/appln%20form%20for%20jdrn%20membership_9apr23.pdf)
