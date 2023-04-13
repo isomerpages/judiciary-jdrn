@@ -10,4 +10,4 @@ A judge of a court or judiciary who is interested in learning about the JDR proc
 Please complete this form and send to: [JDRN\_SECRETARIAT@judiciary.gov.sg](mailto:JDRN_SECRETARIAT@judiciary.gov.sg).
 
 
-##### [Application to Join as Observer (Individual Judge)](/files/appln%20form%20to%20be%20an%20jdrn%20observer(jud)_9apr23.pdf)
+##### [Application to Join as Observer (Individual Judge)](/files/appln%20form%20to%20be%20an%20jdrn%20observer(indiv)_9apr23.pdf)
