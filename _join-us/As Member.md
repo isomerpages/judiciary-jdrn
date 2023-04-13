@@ -9,4 +9,4 @@ A court or judiciary which has experience in the JDR process and has integrated 
 
 Please complete this form and send to: [JDRN\_SECRETARIAT@judiciary.gov.sg](mailto:JDRN_SECRETARIAT@judiciary.gov.sg).
 
-###### [Application to Join as Member](/files/appln%20form%20for%20jdrn%20membership_9apr23.pdf)
+##### [Application to Join as Member](/files/appln%20form%20for%20jdrn%20membership_9apr23.pdf)
