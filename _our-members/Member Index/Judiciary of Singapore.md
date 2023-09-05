@@ -1,6 +1,6 @@
 ---
 title: Judiciary of Singapore
-permalink: /our-members/SG/
+permalink: /our-members/sg/
 description: ""
 third_nav_title: Member Index
 ---

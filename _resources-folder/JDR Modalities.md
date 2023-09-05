@@ -1,6 +1,6 @@
 ---
 title: JDR Modalities
-permalink: /resources-folder/permalink
+permalink: /resources-folder/permalink/
 description: ""
 ---
 # Early Neutral Evaluation

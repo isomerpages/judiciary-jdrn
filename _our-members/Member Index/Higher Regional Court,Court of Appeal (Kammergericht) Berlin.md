@@ -1,6 +1,6 @@
 ---
 title: Higher Regional Court,Court of Appeal (Kammergericht) Berlin
-permalink: /our-members/Germany
+permalink: /our-members/germany/
 description: ""
 third_nav_title: Member Index
 ---

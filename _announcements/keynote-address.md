@@ -1,4 +1,4 @@
 ---
 title: "Keynote address "
-permalink: /materials/permalink
+permalink: /materials/permalink/
 ---

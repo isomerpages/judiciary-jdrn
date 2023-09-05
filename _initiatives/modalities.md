@@ -1,5 +1,5 @@
 ---
 title: Modalities
-permalink: /modalities
+permalink: /modalities/
 ---
 <Content for modalities goes here.>

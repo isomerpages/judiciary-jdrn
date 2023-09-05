@@ -1,6 +1,6 @@
 ---
 title: United States District Court for the Southern District of New York
-permalink: /our-members/Alphabetical-List/USA/
+permalink: /our-members/alphabetical-list/usa/
 description: ""
 third_nav_title: Member Index
 ---

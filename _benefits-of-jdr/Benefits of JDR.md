@@ -1,6 +1,6 @@
 ---
 title: Benefits of JDR
-permalink: /jdrn-benefits
+permalink: /jdrn-benefits/
 description: ""
 ---
 

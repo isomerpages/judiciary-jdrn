@@ -1,6 +1,6 @@
 ---
 title: Judiciary of England and Wales, United Kingdom
-permalink: /our-members/UK/
+permalink: /our-members/uk/
 description: ""
 third_nav_title: Member Index
 ---

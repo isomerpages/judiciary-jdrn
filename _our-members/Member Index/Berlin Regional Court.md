@@ -1,6 +1,6 @@
 ---
 title: Berlin Regional Court
-permalink: /our-members/Member-Index/BerRegCt/
+permalink: /our-members/member-index/berregct/
 description: ""
 third_nav_title: Member Index
 ---

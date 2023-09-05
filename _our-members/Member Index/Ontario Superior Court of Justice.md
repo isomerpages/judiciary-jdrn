@@ -1,6 +1,6 @@
 ---
 title: Ontario Superior Court of Justice
-permalink: /our-members/Canada/
+permalink: /our-members/canada/
 description: ""
 third_nav_title: Member Index
 ---

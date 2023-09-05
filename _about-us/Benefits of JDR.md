@@ -1,6 +1,6 @@
 ---
 title: Benefits of JDR
-permalink: /about-us/benefits
+permalink: /about-us/benefits/
 description: ""
 ---
 (a)          An early, amicable resolution of the court dispute.

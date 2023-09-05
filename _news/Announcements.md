@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /news/permalink
+permalink: /news/permalink/
 description: ""
 ---
 ### This page will be updated soon

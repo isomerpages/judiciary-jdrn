@@ -1,6 +1,6 @@
 ---
 title: Our Members
-permalink: /our-members/our
+permalink: /our-members/our/
 description: ""
 ---
 Country of Members in Alphabetical Order:

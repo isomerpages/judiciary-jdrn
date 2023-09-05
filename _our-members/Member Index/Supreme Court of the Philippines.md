@@ -1,6 +1,6 @@
 ---
 title: Supreme Court of the Philippines
-permalink: /our-members/PP/
+permalink: /our-members/pp/
 description: ""
 third_nav_title: Member Index
 ---

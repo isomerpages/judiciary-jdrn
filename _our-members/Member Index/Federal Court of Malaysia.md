@@ -1,6 +1,6 @@
 ---
 title: Federal Court of Malaysia
-permalink: /our-members/Malaysia/
+permalink: /our-members/malaysia/
 description: ""
 third_nav_title: Member Index
 ---
