@@ -9,6 +9,6 @@ third_nav_title: Member Index
 ###### [Supreme Court of the Philippines](https://sc.judiciary.gov.ph/)
 
 
-#### [Country Report](/files/Philippines_JDR%20Country%20Report%2001242022.pdf)
+#### [Country Report](/files/philippines_jdr%20country%20report%2001242022.pdf)
 
 

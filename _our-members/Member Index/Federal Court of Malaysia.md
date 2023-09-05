@@ -7,6 +7,6 @@ third_nav_title: Member Index
 ##### Website
 [Federal Court of Malaysia]( https://www.kehakiman.gov.my/en)
 
-##### [Country Report](/files/COUNTRY%20REPORTS%20ON%20THE%20JUDICIAL%20DISPUTE%20RESOLUTION%20PROCESS%20MAL.pdf)
+##### [Country Report](/files/country%20reports%20on%20the%20judicial%20dispute%20resolution%20process%20mal.pdf)
 
 

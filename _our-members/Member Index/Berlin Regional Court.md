@@ -9,7 +9,7 @@ third_nav_title: Member Index
 
 
 
-##### [Country Report](/files/Berlin%20Regional%20Court%20-%20Country%20Report.pdf)
+##### [Country Report](/files/berlin%20regional%20court%20-%20country%20report.pdf)
 
 
 
