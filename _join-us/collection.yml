@@ -1,0 +1,7 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - As Member.md
+      - As Observer (Judiciary).md
+      - As Observer (Individual Judge).md

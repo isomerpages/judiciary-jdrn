@@ -1,0 +1,7 @@
+collections:
+  resources-folder:
+    output: true
+    order:
+      - JDR Modalities.md
+      - Best Practice Guide.md
+      - Capacity Building and Training.md

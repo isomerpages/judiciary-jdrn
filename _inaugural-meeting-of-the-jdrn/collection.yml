@@ -1,0 +1,5 @@
+collections:
+  inaugural-meeting-of-the-jdrn:
+    output: true
+    order:
+      - Inaugural Meeting of the JDRN.md
