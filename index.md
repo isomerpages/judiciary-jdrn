@@ -14,12 +14,12 @@ sections:
         - title: About Us
           description: Key Highlight description
           url: /about-us
-        - title: Resources
-          description: Key Highlight description
-          url: /resources-folder/permalink
         - title: Past Meetings
           description: Key Highlight description
           url: ""
+        - title: Resources
+          description: Key Highlight description
+          url: /resources-folder/permalink
         - title: News
           description: Key Highlight description
           url: ""
