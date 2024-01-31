@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: About Us
           description: Key Highlight description
-          url: /about-us
+          url: /about-us/who/
         - title: Past Meetings
           description: Key Highlight description
           url: ""
