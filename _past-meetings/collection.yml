@@ -1,0 +1,4 @@
+collections:
+  past-meetings:
+    output: true
+    order: []
