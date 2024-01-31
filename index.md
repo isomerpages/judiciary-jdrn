@@ -34,7 +34,7 @@ sections:
       title: 3rd JDRN Meeting
       id: infopic
       description: 28 & 29 October 2024 in Kuala Lumpur, Malaysia
-      image: /images/JDRN_pic_for_homepage.jpg
+      image: /images/image_test.JPG
       alt: Image alt text
   - infobar:
       title: An International Network of Judiciaries
