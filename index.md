@@ -19,7 +19,7 @@ sections:
           url: /past-meetings/permalink/
         - title: Resources
           description: Key Highlight description
-          url: /resources-folder/permalink
+          url: /resources-folder/permalink/
         - title: News
           description: Key Highlight description
           url: ""
