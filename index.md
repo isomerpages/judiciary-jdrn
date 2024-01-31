@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: About Us
           description: Key Highlight description
-          url: ""
+          url: /about-us
         - title: Resources
           description: Key Highlight description
           url: ""
