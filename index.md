@@ -8,7 +8,21 @@ notification: ""
 sections:
   - hero:
       title: International Judicial Dispute Resolution Network
-      background: /images/light blue background.jpg
+      background: /images/JDRN_pic_for_homepage2.jpg
+      variant: center
+      key_highlights:
+        - title: About Us
+          description: Key Highlight description
+          url: ""
+        - title: Resources
+          description: Key Highlight description
+          url: ""
+        - title: Past Meetings
+          description: Key Highlight description
+          url: ""
+        - title: News
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: An International Network of Judiciaries
   - infobar:
@@ -44,4 +58,12 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/JDRN_pic_for_homepage.jpg
+      alt: Image alt text
 ---
