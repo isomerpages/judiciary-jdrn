@@ -36,12 +36,6 @@ sections:
       image: /images/image_test.JPG
       alt: Image alt text
   - infobar:
-      title: An International Network of Judiciaries
-  - infobar:
-      title: Second Meeting of the JDRN
-      description: will be held on 22 & 23 May 2023 in New York City
-      url: /second-meeting-of-the-jdrn/permalink
-  - infobar:
       title: Apply to Join the JDRN as a Member or an Observer
       button: Click here
       url: /join-us/asmember
