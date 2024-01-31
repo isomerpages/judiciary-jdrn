@@ -14,12 +14,12 @@ sections:
         - title: About Us
           description: Key Highlight description
           url: /about-us/who/
-        - title: Past Meetings
-          description: Key Highlight description
-          url: /past-meetings/permalink/
         - title: Resources
           description: Key Highlight description
           url: /resources-folder/permalink/
+        - title: Past Meetings
+          description: Key Highlight description
+          url: /past-meetings/permalink/
         - title: News
           description: Key Highlight description
           url: /latestnews/permalink/
