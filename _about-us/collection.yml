@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our Vision.md
       - Who We Are.md
       - Our Mission.md
+      - Our Vision.md
       - Benefits of JDR.md
