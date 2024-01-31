@@ -16,7 +16,7 @@ sections:
           url: /about-us
         - title: Past Meetings
           description: Key Highlight description
-          url: https://cms.isomer.gov.sg/sites/judiciary-jdrn/folders/past-meetings
+          url: ""
         - title: Resources
           description: Key Highlight description
           url: /resources-folder/permalink
