@@ -40,4 +40,8 @@ sections:
         Dispute Resolution Process
       button: CLICK HERE
       url: /resources/permalink/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
