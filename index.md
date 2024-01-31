@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: International Judicial Dispute Resolution Network
-      background: /images/JDRN_pic_for_homepage2.jpg
+      background: /images/JDRN_3_Test.jpg
       variant: floating
       key_highlights:
         - title: About Us
@@ -31,7 +31,7 @@ sections:
       subtitle: Add a preview and link to your Resource Room
       id: resources
   - infopic:
-      title: " 3rd JDRN Meeting"
+      title: 3rd JDRN Meeting
       id: infopic
       description: 28 & 29 October 2024 in Kuala Lumpur, Malaysia
       image: /images/JDRN_pic_for_homepage.jpg
