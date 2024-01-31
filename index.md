@@ -28,7 +28,6 @@ sections:
       backgroundColor: gray
   - resources:
       title: Join Us
-      subtitle: Add a preview and link to your Resource Room
       id: resources
   - infopic:
       title: 3rd JDRN Meeting
