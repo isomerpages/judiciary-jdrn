@@ -16,7 +16,7 @@ sections:
           url: /about-us/who/
         - title: Past Meetings
           description: Key Highlight description
-          url: ""
+          url: /past-meetings/permalink/
         - title: Resources
           description: Key Highlight description
           url: /resources-folder/permalink
