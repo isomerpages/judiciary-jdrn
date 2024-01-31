@@ -46,24 +46,7 @@ sections:
       button: Click here
       url: /join-us/asmember
   - infobar:
-      title: Mission of the JDRN
-      description: Promoting the early, amicable resolution of cases through judge-led
-        case management and Court ADR modalities
-      button: CLICK HERE
-      url: /about-us/mission
-  - infobar:
-      title: Inaugural Meeting of the JDRN
-      description: 18 & 19 May 2022
-      button: CLICK HERE
-      url: /inaugural-meeting-of-the-jdrn/permalink
-  - infobar:
       title: Our Founding Members
       button: Click Here
       url: /our-members/our
-  - infobar:
-      title: Best Practice Guide
-      description: For the  Establishment, Implementation & Promotion of the Judicial
-        Dispute Resolution Process
-      button: CLICK HERE
-      url: /resources/permalink/
 ---
