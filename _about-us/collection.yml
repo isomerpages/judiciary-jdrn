@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Members.md
       - Who We Are.md
       - Our Mission.md
       - Our Vision.md
