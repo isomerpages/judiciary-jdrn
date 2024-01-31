@@ -16,7 +16,7 @@ sections:
           url: /about-us
         - title: Resources
           description: Key Highlight description
-          url: ""
+          url: /resources-folder/permalink
         - title: Past Meetings
           description: Key Highlight description
           url: ""
