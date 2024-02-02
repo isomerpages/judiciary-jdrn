@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Singapore/UNITED STATES OF AMERICA.md
-      - Singapore/.keep
+      - Our Members (suggested)/UNITED STATES OF AMERICA.md
+      - Our Members (suggested)/.keep
       - Who We Are.md
       - Our Mission.md
       - Our Vision.md
