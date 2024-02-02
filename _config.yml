@@ -3,7 +3,7 @@ url: https://int-jdrn.org
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#3e9fcd"
-  secondary-color: "#000000"
+  secondary-color: "#568fd2"
   media-colors:
     - title: media-color-one
       color: "#cf70e3"
