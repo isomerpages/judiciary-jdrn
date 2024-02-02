@@ -18,7 +18,5 @@ to join the JDRN as an Observer (Individual Judge).</p>
 <p>Please complete this form and send to: <a href="mailto:JDRN_Secretariat@judiciary.gov.sg" rel="noopener noreferrer nofollow" target="_blank">JDRN_Secretariat@judiciary.gov.sg</a>
 </p>
 <p></p>
-<p><a href="/files/appln form to be an jdrn observer(indiv)_9apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form to join as a JDRN observer (Individual Judge)</a>
+<p><a href="/files/appln form to be an jdrn observer(indiv)_9apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form to be an observer (Individual Judge)</a>
 </p>
-<p></p>
-<p></p>
