@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Latest News.md
-      - Announcements.md
       - Archived News.md
