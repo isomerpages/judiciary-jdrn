@@ -26,15 +26,15 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
-  - resources:
-      title: Join Us
-      id: resources
   - infopic:
       title: Upcoming Events
       id: infopic
       description: 3rd JDRN Meeting on 28 & 29 October 2024 in Kuala Lumpur, Malaysia
       image: /images/light blue background.jpg
       alt: Image alt text
+  - resources:
+      title: Join Us
+      id: resources
   - infobar:
       title: Apply to Join the JDRN as a Member or an Observer
       button: Click here
