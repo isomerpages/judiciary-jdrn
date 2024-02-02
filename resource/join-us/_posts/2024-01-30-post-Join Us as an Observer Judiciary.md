@@ -15,7 +15,6 @@ court disputes in full or in part so that judicial time is saved.</p>
 the JDR process and in participating in the activities of the JDRN may
 apply to join the JDRN as an Observer (Judiciary).</p>
 <p>Please complete this form and send to: <a href="mailto:JDRN_Secretariat@judiciary.gov.sg" rel="noopener noreferrer nofollow" target="_blank">JDRN_Secretariat@judiciary.gov.sg</a>
-<a href="mailto:JDRN\_SECRETARIAT@judiciary.gov.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p></p>
 <p><a href="/files/appln form to be an jdrn observer(jud)_9apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form to be a JDRN Observer (Judiciary)</a>
