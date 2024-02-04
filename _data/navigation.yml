@@ -2,10 +2,6 @@ logo: /images/jdrn logo new 28 feb.png
 links:
   - title: About Us
     collection: about-us
-  - title: Our Members
-    collection: our-members
-  - title: Join Us
-    collection: join-us
   - title: News
     collection: news
   - title: Resources
