@@ -5,4 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Our Members
 ---
-<p></p>
+<p>Website</p>
+<p><a href="https://www.berlin.de/gerichte/landgericht/" rel="noopener noreferrer nofollow" target="_blank">Berlin Regional Court</a>
+</p>
+<p><a href="/files/berlin regional court - speech.pdf" rel="noopener noreferrer nofollow" target="_blank">Country Report</a>
+</p>
