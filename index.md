@@ -35,12 +35,4 @@ sections:
   - resources:
       title: Join Us
       id: resources
-  - infobar:
-      title: Apply to Join the JDRN as a Member or an Observer
-      button: Click here
-      url: /join-us/asmember
-  - infobar:
-      title: Our Founding Members
-      button: Click Here
-      url: /our-members/our
 ---
