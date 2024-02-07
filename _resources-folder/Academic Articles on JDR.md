@@ -10,11 +10,11 @@ variant: tiptap
 </p>
 <p><strong><u>Five Reasons Why Judges Should Conduct Settlement Conferences</u></strong>
 </p>
-<p><a href="https://bdridges.monash.edu/articles/journal_contribution/Five_Reasons_Why_Judges_Should_Conduct_Settlement_Conferences/10064777" rel="noopener noreferrer nofollow" target="_blank"><u>https://bridges.monash.edu/articles/journal_contribution/Five_Reasons_Why_Judges_Should_Conduct_Settlement_Conferences/10064777</u></a><u> </u>
+<p><a href="https://bdridges.monash.edu/articles/journal_contribution/Five_Reasons_Why_Judges_Should_Conduct_Settlement_Conferences/10064777" rel="noopener noreferrer nofollow" target="_blank"><u>https://bridges.monash.edu/articles/journal_contribution/Five_Reasons_Why_Judges_Should_Conduct_Settlement_Conferences/10064777</u></a>
 </p>
 <p><strong><u>Should Court-Sponsored ADR survive?</u></strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://lawcat.berkeley.edu/record/1120070?ln=en</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://lawcat.berkeley.edu/record/1120070?ln=en</a>
 </p>
 <p><strong><u>Court ADR 25 years after Pound: Have We Found a Better Way?</u></strong>
 </p>
