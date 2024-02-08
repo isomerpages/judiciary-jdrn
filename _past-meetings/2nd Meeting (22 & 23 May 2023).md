@@ -4,7 +4,7 @@ permalink: /past-meeting/permalink/
 variant: tiptap
 description: ""
 ---
-<h4><a href="/files/JDRN_WEBSITE_STATEMEN1.pdf" rel="noopener noreferrer nofollow" target="_blank">Website Statement</a></h4>
+<h4><a href="/files/JDRN_WEBSITE_STATEMENT2.pdf" rel="noopener noreferrer nofollow" target="_blank">Website Statement</a></h4>
 <p></p>
 <h4><strong><u>Opening Addresses by the Co-Hosts</u></strong></h4>
 <p><a href="/files/The_Honourable_Chief_Judge_Laura_Taylor_Swain.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable Chief Judge Laura Taylor Swain</a>
@@ -27,7 +27,7 @@ description: ""
 </p>
 <p></p>
 <h4><strong><u>Sharing on the experience and challenges in implementing the JDR process</u></strong></h4>
-<p><a href="/files/The_Honourable_Deputy_Chief_Judge_Liu_Xuemei.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable Deputy Chief Judge Liu Xuemei </a>
+<p><a href="/files/The_Honourable_Deputy_Chief_Judge_Liu_Xuemei.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable Deputy Chief Judge Liu Xuemei</a>
 </p>
 <p><a href="/files/The_Right_Honourable_Justice_Tan_Sri_Datuk_Amar_Abang_Iskandar_bin_Abang_Hashim2.pdf" rel="noopener noreferrer nofollow" target="_blank">The Right Honourable Justice Tan Sri Datuk Amar Abang Iskandar bin Abang Hashim</a>
 </p>
