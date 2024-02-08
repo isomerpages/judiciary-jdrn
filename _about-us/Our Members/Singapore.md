@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Our Members
 ---
-<p>Website</p>
+<h4><strong>Judiciary of Singapore</strong></h4>
+<p></p>
+<p><strong>Website</strong>
+</p>
 <p><a href="https://www.judiciary.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Judiciary of Singapore</a>
 </p>
 <p></p>
