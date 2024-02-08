@@ -12,3 +12,7 @@ third_nav_title: Our Members
 <p></p>
 <p><a href="/files/kammergericht - country report.pdf" rel="noopener noreferrer nofollow" target="_blank">Country Report</a>
 </p>
+<p></p>
+<h4><strong><u>Berlin Regional Court</u></strong></h4>
+<p>Website</p>
+<p></p>
