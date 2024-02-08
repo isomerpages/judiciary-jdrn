@@ -33,6 +33,8 @@ variant: tiptap
 </p>
 <p></p>
 <h4><strong><u>Procedural Justice</u></strong></h4>
+<p><a href="https://ink.library.smu.edu.sg/sol_research/3157/" rel="noopener noreferrer nofollow" target="_blank">The Evolving Concept of Access to Justice in Singapore’s Mediation Movement </a>
+</p>
 <p><a href="https://scholarship.law.tamu.edu/facscholar/945/" rel="noopener noreferrer nofollow" target="_blank">Making Deals in Court-Connected Mediation: What’s Justice Got to Do with It?</a>
 </p>
 <p><a href="https://scholarship.law.tamu.edu/facscholar/964/" rel="noopener noreferrer nofollow" target="_blank">Remembering the Role of Justice in Resolution: Insights from Procedural and Social Justice Theories</a>
