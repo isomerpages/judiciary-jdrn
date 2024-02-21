@@ -12,16 +12,16 @@ sections:
       variant: floating
       key_highlights:
         - title: About Us
-          description: Key Highlight description
+          description: ""
           url: /about-us/who/
         - title: Past Meetings
-          description: Key Highlight description
+          description: ""
           url: /past-meetings/permalink/
         - title: Resources
-          description: Key Highlight description
+          description: ""
           url: /resources-folder1/permalink/
         - title: News
-          description: Key Highlight description
+          description: ""
           url: /news/
       size: sm
       alignment: right
