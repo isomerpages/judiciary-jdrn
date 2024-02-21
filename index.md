@@ -29,7 +29,7 @@ sections:
   - infopic:
       title: Upcoming Events
       id: infopic
-      description: 3rd JDRN Meeting on 28 & 29 October 2024 in Kuala Lumpur, Malaysia
+      description: 3rd JDRN Meeting in Kuala Lumpur, Malaysia
       image: /images/light blue background.jpg
       alt: Image alt text
   - resources:
