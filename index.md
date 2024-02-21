@@ -22,7 +22,7 @@ sections:
           url: /resources-folder1/permalink/
         - title: News
           description: Key Highlight description
-          url: /past-meeting/permalink/
+          url: /news/
       size: sm
       alignment: right
       backgroundColor: gray
