@@ -2,6 +2,7 @@ collections:
   resources-folder:
     output: true
     order:
+      - Benefits of JDR.md
       - JDR Modalities.md
-      - Best Practice Guide.md
-      - Capacity Building and Training.md
+      - Best Practice Guides.md
+      - Academic Articles on JDR.md

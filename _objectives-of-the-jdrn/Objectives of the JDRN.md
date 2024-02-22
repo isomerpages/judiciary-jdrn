@@ -1,6 +1,6 @@
 ---
 title: Objectives of the JDRN
-permalink: /jdrn-obj
+permalink: /jdrn-obj/
 description: ""
 ---
 (a)	Developing a set of best practice standards for JDR to serve as the benchmark for judiciaries. 

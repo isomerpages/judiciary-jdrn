@@ -2,6 +2,5 @@ collections:
   news:
     output: true
     order:
-      - Current News.md
-      - Announcements.md
+      - Latest News.md
       - Archived News.md
