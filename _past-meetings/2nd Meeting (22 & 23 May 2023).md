@@ -6,10 +6,10 @@ description: ""
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_test.JPG">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2nd_meeting_image.jpg">
+</div>
 <h4><a href="/files/JDRN_WEBSITE_STATEMENT2.pdf" rel="noopener noreferrer nofollow" target="_blank">Website Statement</a></h4>
 <p></p>
 <h4><strong><u>Opening Addresses by the Co-Hosts</u></strong></h4>
