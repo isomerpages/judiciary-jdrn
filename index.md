@@ -27,9 +27,10 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
-      title: Upcoming Events
+      title: Announcement
       id: infopic
-      description: 3rd JDRN Meeting in Kuala Lumpur, Malaysia
+      description: JDRN welcomes The High Court of Ireland as a member with effect
+        from 19 January 2024
       image: /images/Welcome_Ireland_poster.jpg
       alt: Image alt text
   - resources:
