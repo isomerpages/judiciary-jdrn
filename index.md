@@ -29,8 +29,7 @@ sections:
   - infopic:
       title: Announcement
       id: infopic
-      description: JDRN welcomes The High Court of Ireland as a member with effect
-        from 19 January 2024
+      description: "JDRN welcomes the High Court of Ireland as a Member "
       image: /images/Upcoming_Event7.JPG
       alt: Image alt text
   - resources:
