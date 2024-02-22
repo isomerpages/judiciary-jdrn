@@ -30,7 +30,7 @@ sections:
       title: Upcoming Events
       id: infopic
       description: 3rd JDRN Meeting in Kuala Lumpur, Malaysia
-      image: /images/Malaysian_Federal_Court_2_.jpeg
+      image: /images/Welcome_Ireland_poster.jpg
       alt: Image alt text
   - resources:
       title: Join Us
