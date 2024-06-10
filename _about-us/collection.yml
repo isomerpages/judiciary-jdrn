@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - Our Mission.md
       - Our Vision.md
+      - Our Mission.md
       - Our Members/.keep
       - Our Members/Australia.md
       - Our Members/Canada.md
