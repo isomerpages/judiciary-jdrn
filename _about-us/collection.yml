@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our Objectives.md
       - Who We Are.md
       - Our Vision Statement.md
       - Our Mission Statement.md
+      - Our Objectives.md
       - Our Members/.keep
       - Our Members/Australia.md
       - Our Members/Canada.md
