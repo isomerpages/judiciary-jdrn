@@ -30,7 +30,7 @@ sections:
       title: Announcement
       id: infopic
       description: JDRN welcomes the High Court of Ireland as a Member
-      image: /images/Upcoming_Event8.JPG
+      image: /images/Upcoming_Event9.jpg
       alt: Image alt text
   - resources:
       title: Join Us
