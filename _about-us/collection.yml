@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - Our Vision.md
+      - Our Vision Statement.md
       - Our Mission.md
       - Our Members/.keep
       - Our Members/Australia.md
