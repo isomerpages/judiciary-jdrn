@@ -19,7 +19,6 @@ the employment of the whole suite of Court Alternative Dispute Resolution
 (c) judge-facilitated negotiations, and (d) the appointment of assessors
 / experts / referees / third-party mediators to help determine complex
 factual issues, as a core case management strategy.&nbsp;</p>
-<p>&nbsp;</p>
-<p>The JDRN is a non-binding and voluntary group of like-minded judiciaries
+<p>&nbsp;The JDRN is a non-binding and voluntary group of like-minded judiciaries
 which collectively seek to pursue the vision, mission, objectives and goals
 of the Network.</p>
