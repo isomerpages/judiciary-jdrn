@@ -4,5 +4,4 @@ permalink: /about-usvision/permalink/
 variant: tiptap
 description: ""
 ---
-<p><u>Advancing Justice Globally through JDR Excellence</u>
-</p>
+<p>Advancing Justice Globally through JDR Excellence</p>
