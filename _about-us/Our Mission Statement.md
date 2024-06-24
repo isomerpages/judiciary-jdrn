@@ -4,8 +4,8 @@ permalink: /about-us/mission/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>Promoting the early, amicable resolution of cases through judge-led case management and Court ADR modalities.</u></strong>
-</p>
+<p>Promoting the early, amicable resolution of cases through judge-led case
+management and Court ADR modalities.</p>
 <p><u>Description</u>
 </p>
 <p>The mission of the International Judicial Dispute Resolution Network (“JDRN”)
