@@ -29,7 +29,7 @@ sections:
   - infopic:
       title: Announcement
       id: infopic
-      description: JDRN welcomes the High Court of Ireland as a Member
+      description: JDRN welcomes the Judiciary of Northern Ireland as an Observer
       image: /images/Upcoming_Event10.jpg
       alt: Image alt text
   - resources:
