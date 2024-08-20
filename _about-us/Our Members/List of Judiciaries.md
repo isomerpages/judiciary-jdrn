@@ -17,5 +17,9 @@ third_nav_title: Our Members
 <p>Singapore</p>
 <p>United Kingdom</p>
 <p>United States of America</p>
+<p></p>
+<blockquote>
+<h4>For further information on each member, please click on their respective country names.</h4>
+</blockquote>
 <h3></h3>
 <p></p>
