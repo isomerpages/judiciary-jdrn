@@ -10,7 +10,7 @@ third_nav_title: Our Members
 <p></p>
 <p><strong>Website</strong>
 </p>
-<p><a href="www.courts.ie" rel="noopener noreferrer nofollow" target="_blank">The Courts Service of Ireland</a>
+<p><a href="https://www.courts.ie/" rel="noopener nofollow" target="_blank">The High Court of Ireland</a>
 </p>
 <p></p>
 <p><a href="/files/Country_Report___Ireland.pdf" rel="noopener noreferrer nofollow" target="_blank">Country Report</a>
