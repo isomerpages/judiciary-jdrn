@@ -19,7 +19,7 @@ third_nav_title: Our Members
 <p>United States of America</p>
 <p></p>
 <blockquote>
-<h4>For further information on each member, please click on their respective country names.</h4>
+<h4>For more information on each Member Judiciary, please click on the name of the country.</h4>
 </blockquote>
 <h3></h3>
 <p></p>
