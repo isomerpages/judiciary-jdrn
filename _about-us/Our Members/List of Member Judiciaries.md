@@ -25,7 +25,8 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/uk/permalink/" rel="noopener nofollow" target="_blank">United Kingdom</a>
 </p>
-<p>United States of America</p>
+<p><a href="/about-us/usa/permalink/" rel="noopener nofollow" target="_blank">United States of America</a>
+</p>
 <p></p>
 <blockquote>
 <h4>For more information on each Member Judiciary, please click on the name of the country.</h4>
