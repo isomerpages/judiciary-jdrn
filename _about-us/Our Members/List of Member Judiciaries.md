@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Members
 ---
-<p><strong><u>List of Judiciaries as Members of JDRN</u></strong>
+<p><strong><u>List of Member Judiciaries </u></strong>
 </p>
 <p>Australia</p>
 <p>Canada</p>
