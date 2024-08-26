@@ -9,9 +9,9 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/australia/permalink/" rel="noopener nofollow" target="_blank">Australia</a>
 </p>
-<p></p>
 <p><a href="/about-us/ontario/permalink/" rel="noopener nofollow" target="_blank">Canada</a>
 </p>
+<p></p>
 <p><a href="/about-us/china/permalink/" rel="noopener nofollow" target="_blank">China</a>
 </p>
 <p><a href="/about-us/germany/permalink/" rel="noopener nofollow" target="_blank">Germany</a>
