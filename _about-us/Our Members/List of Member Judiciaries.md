@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Our Members
 ---
-<p><strong><u>List of Member Judiciaries </u></strong>
+<p><strong><u>List of Member Judiciaries</u></strong>
 </p>
-<p>Australia</p>
+<p><a href="/about-us/australia/permalink/" rel="noopener nofollow" target="_blank">Australia</a>
+</p>
 <p>Canada</p>
 <p>China</p>
 <p>Germany</p>
