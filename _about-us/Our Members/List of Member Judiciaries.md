@@ -23,9 +23,9 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/singapore/permalink/" rel="noopener nofollow" target="_blank">Singapore</a>
 </p>
-<p></p>
 <p><a href="/about-us/uk/permalink/" rel="noopener nofollow" target="_blank">United Kingdom</a>
 </p>
+<p></p>
 <p><a href="/about-us/usa/permalink/" rel="noopener nofollow" target="_blank">United States of America</a>
 </p>
 <p></p>
