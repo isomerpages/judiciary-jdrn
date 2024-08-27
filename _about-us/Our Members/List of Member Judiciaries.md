@@ -23,7 +23,7 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/singapore/permalink/" rel="noopener nofollow" target="_blank">Singapore</a>
 </p>
-<p><strong>United Kingdom</strong>
+<p><a href="/about-us/uk/permalink/" rel="noopener nofollow" target="_blank">United Kingdom</a>
 </p>
 <p><strong>United States of America</strong>
 </p>
