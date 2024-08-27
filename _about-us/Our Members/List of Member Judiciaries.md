@@ -19,7 +19,7 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/malaysia/permalink/" rel="noopener nofollow" target="_blank">Malaysia</a>
 </p>
-<p><strong>Philippines</strong>
+<p><a href="/about-us/philippines/permalink/" rel="noopener nofollow" target="_blank">Philippines</a>
 </p>
 <p><strong>Singapore</strong>
 </p>
