@@ -25,7 +25,7 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/uk/permalink/" rel="noopener nofollow" target="_blank">United Kingdom</a>
 </p>
-<p><strong>United States of America</strong>
+<p><a href="/about-us/usa/permalink/" rel="noopener nofollow" target="_blank">United States of America</a>
 </p>
 <p></p>
 <p></p>
