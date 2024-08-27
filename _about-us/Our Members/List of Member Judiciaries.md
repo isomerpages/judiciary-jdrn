@@ -30,7 +30,7 @@ third_nav_title: Our Members
 <p></p>
 <p></p>
 <blockquote>
-<h4>For more information on each Member Judiciary, please click on the name of the country in the side bar.</h4>
+<h4>For more information on each Member Judiciary, please click on the name of the country.</h4>
 </blockquote>
 <h3></h3>
 <p></p>
