@@ -15,8 +15,6 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/germany/permalink/" rel="noopener nofollow" target="_blank">Germany</a>
 </p>
-<p><strong>China</strong>
-</p>
 <p><strong>Ireland</strong>
 </p>
 <p><strong>Malaysia</strong>
