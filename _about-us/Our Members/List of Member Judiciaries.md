@@ -7,7 +7,7 @@ third_nav_title: Our Members
 ---
 <p><strong><u>List of Member Judiciaries</u></strong>
 </p>
-<p><strong>Australia</strong>
+<p><a href="/about-us/australia/permalink/" rel="noopener nofollow" target="_blank">Australia</a>
 </p>
 <p><strong>Canada</strong>
 </p>
