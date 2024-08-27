@@ -17,7 +17,7 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/ireland/permalink/" rel="noopener nofollow" target="_blank">Ireland</a>
 </p>
-<p><strong>Malaysia</strong>
+<p><a href="/about-us/malaysia/permalink/" rel="noopener nofollow" target="_blank">Malaysia</a>
 </p>
 <p><strong>Philippines</strong>
 </p>
