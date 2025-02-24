@@ -10,3 +10,6 @@ third_nav_title: Our Members
 </p>
 <p><a href="https://nysd.uscourts.gov/" rel="noopener noreferrer nofollow" target="_blank"><u>Distrct Court for the Southern District of New York</u></a>
 </p>
+<p></p>
+<h4><strong>Bankruptcy Court in the Western District of Washington</strong></h4>
+<p></p>
