@@ -13,7 +13,7 @@ variant: tiptap
 <p></p>
 <h4><a href="https://cms.isomer.gov.sg/past-meeting/permalink/" rel="noopener nofollow" target="_blank">Second Meeting of the JDRN</a></h4>
 <h5><strong><u>Media Release</u></strong></h5>
-<p><a href="/files/media releae.pdf" rel="noopener nofollow" target="_blank">Second JDRN Meeting 2023</a>
+<p><a href="/files/Media_Release__Second_JDRN_Meeting_2023.pdf" rel="noopener nofollow" target="_blank">Second JDRN Meeting 2023</a>
 </p>
 <p><a href="/files/JDRN_WEBSITE_STATEMEN1.pdf" rel="noopener nofollow" target="_blank">Website Statement</a>
 </p>
