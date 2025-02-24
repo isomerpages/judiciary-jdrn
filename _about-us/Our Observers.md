@@ -8,21 +8,11 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Judiciary of Jamaica</p>
-</li>
-<li>
 <p>Judiciary of Northern Ireland</p>
-</li>
-<li>
-<p>Judiciary of Rwanda</p>
+<p></p>
 </li>
 </ul>
 <p><strong><u>Observers (Individual Judge)</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Judge Mary Jo Heston (United States Bankruptcy Court in the Western District
-Of Washington)</p>
-</li>
-</ul>
+<p></p>
 <p></p>
