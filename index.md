@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: International Judicial Dispute Resolution Network
-      background: /images/JDRN_3_Test.jpg
+      background: /images/Third_JDRN_Group_Photograph.jpg
       variant: floating
       key_highlights:
         - title: About Us
