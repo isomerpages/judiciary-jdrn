@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: International Judicial Dispute Resolution Network
-      background: /images/JDRN_3_Test.jpg
+      background: /images/Third_JDRN_Group_Photograph.jpg
       variant: floating
       key_highlights:
         - title: About Us
@@ -29,7 +29,8 @@ sections:
   - infopic:
       title: Announcement
       id: infopic
-      description: JDRN welcomes the Judiciary of Northern Ireland as an Observer
+      description: JDRN welcomes the Judiciary of Rwanda, the Judiciary of Jamaica and
+        the County Court of Victoria as Members.
       image: /images/Upcoming_Event10.jpg
       alt: Image alt text
   - resources:
