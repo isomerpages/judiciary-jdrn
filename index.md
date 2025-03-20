@@ -27,10 +27,11 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
-      title: Announcement
+      title: New Members
       id: infopic
-      description: JDRN welcomes the Judiciary of Rwanda, the Judiciary of Jamaica and
-        the County Court of Victoria as Members.
+      description: The Judiciary of Rwanda, the Judiciary of Jamaica, the County Court
+        of Victoria and the Qatar International Court and Dispute Resolution
+        Centre.
       image: /images/Upcoming_Event10.jpg
       alt: Image alt text
   - resources:
