@@ -32,7 +32,7 @@ sections:
       description: The Judiciary of Rwanda, the Judiciary of Jamaica, the County Court
         of Victoria and the Qatar International Court and Dispute Resolution
         Centre.
-      image: /images/Upcoming_Event10.jpg
+      image: /images/Fourth_meeting_of_JDRN_pic.jpg
       alt: Image alt text
   - resources:
       title: Join Us
