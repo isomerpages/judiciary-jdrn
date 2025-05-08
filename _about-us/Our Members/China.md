@@ -9,9 +9,8 @@ third_nav_title: Our Members
 <p><a href="/files/china-country report.pdf" rel="noopener noreferrer nofollow" target="_blank">Country Report</a>
 </p>
 <p>Website</p>
-<p><a href="https://english.court.gov.cn" rel="noopener nofollow" target="_blank">The Supreme People's Court of the People's Republic of China</a>
+<p><a href="https://english.court.gov.cn/2015-07/16/c_769578.htm" rel="noopener nofollow" target="_blank">The Supreme People's Court of the People's Republic of China</a>
 </p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
