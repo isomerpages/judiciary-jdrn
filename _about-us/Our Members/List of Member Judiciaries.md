@@ -23,8 +23,6 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/philippines/permalink/" rel="noopener nofollow" target="_blank">Philippines</a>
 </p>
-<p><a href="/about-us/qatar/permalink/" rel="noopener nofollow" target="_blank">Qatar</a>
-</p>
 <p><a href="/about-us/rwanda/" rel="noopener nofollow" target="_blank">Rwanda</a>
 </p>
 <p><a href="/about-us/singapore/permalink/" rel="noopener nofollow" target="_blank">Singapore</a>
