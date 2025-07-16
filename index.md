@@ -29,8 +29,9 @@ sections:
   - infopic:
       title: New Members
       id: infopic
-      description: The Judiciary of Rwanda, the Judiciary of Jamaica and the County
-        Court of Victoria.
+      description: The Judiciary of Rwanda, the Judiciary of Jamaica, the County Court
+        of Victoria and the Qatar International Court and Dispute Resolution
+        Centre
       image: /images/Fourth_meeting_of_JDRN_pic___udpated.jpg
       alt: Image alt text
   - resources:
