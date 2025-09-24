@@ -10,3 +10,5 @@ third_nav_title: Our Members
 </p>
 <p><a href="https://www.qicdrc.gov.qa/courts/court" rel="noopener nofollow" target="_blank">Qatar International Court and Dispute Resolution Centre</a>
 </p>
+<p><a href="/files/JDRN_Report___QICDRC___September_2025.pdf" rel="noopener nofollow" target="_blank">Country Report</a>
+</p>
