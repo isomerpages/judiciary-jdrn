@@ -10,4 +10,5 @@ third_nav_title: Our Members
 </p>
 <p><a href="https://www.districtcourts.govt.nz/" rel="noopener nofollow" target="_blank">District Court of New Zealand</a>
 </p>
-<p>Country Report</p>
+<p><a href="/files/NZ__JDRN_Country_Report_Final.pdf" rel="noopener nofollow" target="_blank">Country Report</a>
+</p>
