@@ -23,6 +23,8 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/malaysia/permalink/" rel="noopener nofollow" target="_blank">Malaysia</a>
 </p>
+<p><a href="/about-us/newzealand/permalink/" rel="noopener nofollow" target="_blank">New Zealand</a>
+</p>
 <p><a href="/about-us/philippines/permalink/" rel="noopener nofollow" target="_blank">Philippines</a>
 </p>
 <p><a href="/about-us/qatar/" rel="noopener nofollow" target="_blank">Qatar</a>
