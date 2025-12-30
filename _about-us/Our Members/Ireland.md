@@ -16,6 +16,6 @@ third_nav_title: Our Members
 <p><a href="/files/Country_Report___Ireland.pdf" rel="noopener noreferrer nofollow" target="_blank">Country Report</a>
 </p>
 <p></p>
-<h4>Judiciary of Northern Ireland</h4>
+<h4></h4>
 <p></p>
 <p></p>
