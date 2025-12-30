@@ -19,5 +19,9 @@ third_nav_title: Our Members
 </p>
 <p></p>
 <h4>Victorian Civil and Administrative Tribunals</h4>
+<p><strong>Website</strong>
+</p>
+<p><a href="https://www.vcat.vic.gov.au/" rel="noopener nofollow" target="_blank">Victorian Civil and Administrative Tribunal (VCAT)</a>
+</p>
 <p></p>
 <p></p>
