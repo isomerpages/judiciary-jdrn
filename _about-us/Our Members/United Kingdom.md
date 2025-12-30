@@ -13,3 +13,11 @@ third_nav_title: Our Members
 <p></p>
 <p><a href="/files/uk country report.pdf" rel="noopener noreferrer nofollow" target="_blank">Country Report</a>
 </p>
+<p></p>
+<h4><strong>Judiciary of Northern Ireland</strong></h4>
+<p></p>
+<p><strong>Website</strong>
+</p>
+<p><a href="https://www.judiciaryni.uk/" rel="noopener nofollow" target="_blank">Judiciary of Northern Ireland</a>
+</p>
+<p></p>
