@@ -39,6 +39,8 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/usa/permalink/" rel="noopener nofollow" target="_blank">United States of America</a>
 </p>
+<p><a href="/about-us/zimbabwe/" rel="noopener nofollow" target="_blank">Zimbabwe</a>
+</p>
 <p></p>
 <p></p>
 <blockquote>
