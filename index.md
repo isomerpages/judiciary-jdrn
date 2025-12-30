@@ -29,7 +29,8 @@ sections:
   - infopic:
       title: New Members
       id: infopic
-      description: The Supreme Court of Brunei Darussalam
+      description: The Supreme Court of Brunei Darussalam, Victorian Civil and
+        Administrative Tribunals, Dubai Courts and the Judiciary of Zimbabwe
       image: /images/Fourth_meeting_of_JDRN_pic___udpated.jpg
       alt: Image alt text
   - resources:
