@@ -17,7 +17,7 @@ third_nav_title: Our Members
 <h4><strong><u>Berlin Regional Court</u></strong></h4>
 <p><strong>Website</strong>
 </p>
-<p><a href="https://www.berlin.de/gerichte/landgericht/" rel="noopener noreferrer nofollow" target="_blank">Berlin Regional Court</a>
+<p><a href="https://www.berlin.de/gerichte/landgericht-zivil/" rel="noopener nofollow" target="_blank">Berlin Regional Court</a>
 </p>
 <p></p>
 <p><a href="/files/berlin regional court - country report.pdf" rel="noopener noreferrer nofollow" target="_blank">Country Report</a>
