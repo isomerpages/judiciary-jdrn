@@ -31,7 +31,7 @@ sections:
       id: infopic
       description: Judiciary of India, Judiciary of Hong Kong and the Supreme Court of
         the Republic of Kazakhstan
-      image: /images/Fifth_Meeting_image1.jpg
+      image: /images/Fifth_Meeting_image2.jpg
       alt: Image alt text
   - resources:
       title: Join Us
