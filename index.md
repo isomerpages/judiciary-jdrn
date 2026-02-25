@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: International Judicial Dispute Resolution Network
-      background: /images/Third_JDRN_Group_Photograph.jpg
+      background: /images/4TH_JDRN_MEETING_2026_GRAND_HYATT_TAGUIG_DAY_1___website_image.jpg
       variant: floating
       key_highlights:
         - title: About Us
@@ -29,9 +29,9 @@ sections:
   - infopic:
       title: New Members
       id: infopic
-      description: The Supreme Court of Brunei Darussalam, Victorian Civil and
-        Administrative Tribunals, Dubai Courts and the Judiciary of Zimbabwe
-      image: /images/Fourth_meeting_of_JDRN_pic___udpated.jpg
+      description: Judiciary of India, Judiciary of Hong Kong and the Supreme Court of
+        the Republic of Kazakhstan
+      image: /images/Fifth_Meeting_image2.jpg
       alt: Image alt text
   - resources:
       title: Join Us
