@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: International Judicial Dispute Resolution Network
-      background: /images/Third_JDRN_Group_Photograph.jpg
+      background: /images/4TH_JDRN_MEETING_2026_GRAND_HYATT_TAGUIG_DAY_1___website_image.jpg
       variant: floating
       key_highlights:
         - title: About Us
