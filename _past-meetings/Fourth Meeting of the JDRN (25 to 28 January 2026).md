@@ -34,10 +34,12 @@ description: ""
 <p></p>
 <p><strong><u>Presentation of Members’ Papers</u></strong>
 </p>
-<p>Her Honour Judge Suzanne KirtonThe Right Honourable Lady Justice Sarah</p>
-<p>Jane Asplin DBE</p>
-<p>Judge Xu Defang&nbsp;</p>
-<p>Ms Muna Nasser AlKaabi</p>
+<p><a href="/files/Judge_Suzanne_Kirton___JDRN_Presentation_Kirton_Building_Cases_County_Court_Victoria.pdf" rel="noopener noreferrer nofollow" target="_blank">Her Honour Judge Suzanne Kirton</a>
+</p>
+<p><a href="/files/Lady_Justice_Sarah_Jane_Asplin_DBE___JC_Royal_Courts_of_Justice__UK_.pdf" rel="noopener noreferrer nofollow" target="_blank">The Right Honourable Lady Justice Sarah Jane Asplin DBE</a>
+</p>
+<p><a href="/files/Muna_Nasser_AlKaabi___Mediation_at_the_QICDRC.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Muna Nasser AlKaabi</a>
+</p>
 <p><strong><u>Looking Ahead (Raising the awareness of the JDRN)</u></strong>
 </p>
 <p><a href="/files/Speech_by_CJ___Strengthening_the_JDRN_The_Case_for_a_Structured_Outreach_Programme.pdf" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice Sundaresh Menon</a>
