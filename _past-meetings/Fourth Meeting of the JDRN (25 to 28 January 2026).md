@@ -22,6 +22,13 @@ description: ""
 </p>
 <p><a href="/files/Concluding_Remarks___Malaysia.pdf" rel="noopener nofollow" target="_blank">The Right Honourable Justice Dato' Abu Bakar Jais</a>
 </p>
+<p></p>
+<p><strong><u>Spotlight on the: (a) Judiciary of Jamaica; (b) Victorian Civil &amp; Administrative Tribunal, Australia; and (c) Dubai Courts</u></strong>
+</p>
+<p>The Honourable the Chief Justice Bryan Sykes</p>
+<p>Deputy President Carol Daicic</p>
+<p>Miss. Alia Al Mheiri</p>
+<p></p>
 <p><strong><u>Looking Ahead (Raising the awareness of the JDRN)</u></strong>
 </p>
 <p><a href="/files/Speech_by_CJ___Strengthening_the_JDRN_The_Case_for_a_Structured_Outreach_Programme.pdf" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice Sundaresh Menon</a>
