@@ -24,5 +24,5 @@ description: ""
 </p>
 <p><strong><u>Looking Ahead (Raising the awareness of the JDRN)</u></strong>
 </p>
-<p><a href="/files/Speech_by_CJ___Strengthening_the_JDRN_The_Case_for_a_Structured_Outreach_Programme.pdf" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice Sundaresh Menon </a>
+<p><a href="/files/Speech_by_CJ___Strengthening_the_JDRN_The_Case_for_a_Structured_Outreach_Programme.pdf" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice Sundaresh Menon</a>
 </p>
