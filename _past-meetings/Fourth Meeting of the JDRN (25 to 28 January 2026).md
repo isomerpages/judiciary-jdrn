@@ -19,8 +19,7 @@ description: ""
 </p>
 <p>&nbsp;<a href="/files/Speech_by_CJ_Sundaresh_at_CJ_Panel.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable the Chief Justice Sundaresh Menon</a>
 </p>
-<p>&nbsp;</p>
-<p><strong><u>Spotlight on the: (a) Judiciary of Jamaica; (b) Victorian Civil &amp; Administrative Tribunal, Australia; and (c) Dubai Courts</u></strong>
+<p>&nbsp;<strong><u>Spotlight on the: (a) Judiciary of Jamaica; (b) Victorian Civil &amp; Administrative Tribunal, Australia; and (c) Dubai Courts</u></strong>
 </p>
 <p><a href="/files/Slides__CJ_Jamaica_.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable the Chief Justice Bryan Sykes</a>
 </p>
