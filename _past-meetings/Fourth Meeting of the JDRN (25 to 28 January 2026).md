@@ -32,6 +32,12 @@ description: ""
 <p><a href="/files/Slides__Dubai_.pdf" rel="noopener noreferrer nofollow" target="_blank">Miss. Alia Al Mheiri</a>
 </p>
 <p></p>
+<p><strong><u>Presentation of Members’ Papers</u></strong>
+</p>
+<p>Her Honour Judge Suzanne KirtonThe Right Honourable Lady Justice Sarah</p>
+<p>Jane Asplin DBE</p>
+<p>Judge Xu Defang&nbsp;</p>
+<p>Ms Muna Nasser AlKaabi</p>
 <p><strong><u>Looking Ahead (Raising the awareness of the JDRN)</u></strong>
 </p>
 <p><a href="/files/Speech_by_CJ___Strengthening_the_JDRN_The_Case_for_a_Structured_Outreach_Programme.pdf" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice Sundaresh Menon</a>
