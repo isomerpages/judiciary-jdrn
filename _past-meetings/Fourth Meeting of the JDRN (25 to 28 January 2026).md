@@ -25,9 +25,12 @@ description: ""
 <p></p>
 <p><strong><u>Spotlight on the: (a) Judiciary of Jamaica; (b) Victorian Civil &amp; Administrative Tribunal, Australia; and (c) Dubai Courts</u></strong>
 </p>
-<p>The Honourable the Chief Justice Bryan Sykes</p>
-<p>Deputy President Carol Daicic</p>
-<p>Miss. Alia Al Mheiri</p>
+<p><a href="/files/Slides__CJ_Jamaica_.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable the Chief Justice Bryan Sykes</a>
+</p>
+<p><a href="/files/Slides__VCAT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Deputy President Carol Daicic</a>
+</p>
+<p><a href="/files/Slides__Dubai_.pdf" rel="noopener noreferrer nofollow" target="_blank">Miss. Alia Al Mheiri</a>
+</p>
 <p></p>
 <p><strong><u>Looking Ahead (Raising the awareness of the JDRN)</u></strong>
 </p>
