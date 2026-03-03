@@ -9,7 +9,7 @@ description: ""
 <p><a href="/files/Welcome_Remarks___Malaysia.pdf" rel="noopener nofollow" target="_blank">The Right Honourable Justice Dato' Abu Bakar Jais</a>
 </p>
 <p></p>
-<p><strong><a href="/files/Collated_returns_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Member Updates on “Enhancing the JDR process through planning, management, implementation, facilities, budgeting, technology and access to justice initiatives”</u></a></strong>
+<p><strong><a href="/files/Collated_returns___UPDATED_3_Mar_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Member Updates on “Enhancing the JDR process through planning, management, implementation, facilities, budgeting, technology and access to justice initiatives”</u></a></strong>
 </p>
 <p></p>
 <p><strong><u>Chief Justices’ Panel on “The vital role of Judicial Dispute Resolution in the effective and efficient administration of justice and whether this raises any concerns if appeals are pending”</u></strong>
