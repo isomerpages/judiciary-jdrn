@@ -21,3 +21,6 @@ third_nav_title: Our Members
 <p><a href="https://www.judiciaryni.uk/" rel="noopener nofollow" target="_blank">Judiciary of Northern Ireland</a>
 </p>
 <p></p>
+<p><a href="/files/Northern_Ireland.pdf" rel="noopener nofollow" target="_blank">Country Report</a>
+</p>
+<p></p>
