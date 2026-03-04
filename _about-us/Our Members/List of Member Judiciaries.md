@@ -27,6 +27,8 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/jamaica/" rel="noopener nofollow" target="_blank">Jamaica</a>
 </p>
+<p><a href="/kazakhstan/" rel="noopener nofollow" target="_blank">Kazakhstan</a>
+</p>
 <p><a href="/about-us/malaysia/permalink/" rel="noopener nofollow" target="_blank">Malaysia</a>
 </p>
 <p><a href="/about-us/newzealand/permalink/" rel="noopener nofollow" target="_blank">New Zealand</a>
