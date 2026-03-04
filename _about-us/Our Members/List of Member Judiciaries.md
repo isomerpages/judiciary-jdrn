@@ -19,6 +19,8 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/germany/permalink/" rel="noopener nofollow" target="_blank">Germany</a>
 </p>
+<p><a href="/hong-kong/" rel="noopener nofollow" target="_blank">Hong Kong</a>
+</p>
 <p><a href="/india/" rel="noopener nofollow" target="_blank">India</a>
 </p>
 <p><a href="/about-us/ireland/permalink/" rel="noopener nofollow" target="_blank">Ireland</a>
