@@ -19,9 +19,15 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/germany/permalink/" rel="noopener nofollow" target="_blank">Germany</a>
 </p>
+<p><a href="/hong-kong/" rel="noopener nofollow" target="_blank">Hong Kong</a>
+</p>
+<p><a href="/india/" rel="noopener nofollow" target="_blank">India</a>
+</p>
 <p><a href="/about-us/ireland/permalink/" rel="noopener nofollow" target="_blank">Ireland</a>
 </p>
 <p><a href="/about-us/jamaica/" rel="noopener nofollow" target="_blank">Jamaica</a>
+</p>
+<p><a href="/kazakhstan/" rel="noopener nofollow" target="_blank">Kazakhstan</a>
 </p>
 <p><a href="/about-us/malaysia/permalink/" rel="noopener nofollow" target="_blank">Malaysia</a>
 </p>
