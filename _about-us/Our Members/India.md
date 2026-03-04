@@ -5,7 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Our Members
 ---
-<blockquote>
-<p></p>
-</blockquote>
+<h4><strong>Judiciary of India</strong></h4>
 <p></p>
