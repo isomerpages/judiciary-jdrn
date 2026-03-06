@@ -4,6 +4,11 @@ permalink: /fourth-meeting-of-the-jdrn-25-to-28-january-2026/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Past_meeting___4th_JDRN_image.jpg">
+</div>
+<p></p>
 <p><strong><u>Welcome Remarks by the JDRN Co-Chairs</u></strong>
 </p>
 <p><a href="/files/Welcome_Remarks___Malaysia.pdf" rel="noopener nofollow" target="_blank">The Right Honourable Justice Dato' Abu Bakar Jais</a>
