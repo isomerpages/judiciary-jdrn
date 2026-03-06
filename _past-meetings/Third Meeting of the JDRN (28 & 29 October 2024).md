@@ -4,6 +4,12 @@ permalink: /third-meeting-of-the-jdrn/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Third_JDRN_Group_Photograph.jpg">
+</div>
+<p></p>
 <p><strong><u>Opening Addresses by the Co-Hosts</u></strong>
 </p>
 <p><a href="/files/Malaysia__Welcome_Remarks_by_TAN_SRI.pdf" rel="noopener nofollow" target="_blank">The Right Honourable Justice Tan Sri Datuk Amar Abang Iskandar bin Abang Hashim</a>
