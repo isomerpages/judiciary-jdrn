@@ -33,9 +33,6 @@ sections:
         the Republic of Kazakhstan and The Supreme Court of Victoria
       image: /images/Fifth_Meeting_image4___old_website.jpg
       alt: Image alt text
-  - resources:
-      title: Join Us
-      id: resources
   - infobar:
       title: Join us as a Member
       id: infobar
