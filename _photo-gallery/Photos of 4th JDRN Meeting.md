@@ -87,3 +87,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/140_4TH_JDRN_MEETING_2026_GRAND_JUDICIARY_TOUR_DAY_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/141_4TH_JDRN_MEETING_2026_GRAND_JUDICIARY_TOUR_DAY_3.jpg">
+</div>
+<p></p>
