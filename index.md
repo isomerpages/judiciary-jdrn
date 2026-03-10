@@ -30,7 +30,7 @@ sections:
       title: New Members
       id: infopic
       description: Judiciary of India, Judiciary of Hong Kong and the Supreme Court of
-        the Republic of Kazakhstan
+        the Republic of Kazakhstan and The Supreme Court of Victoria
       image: /images/Fifth_Meeting_image2.jpg
       alt: Image alt text
   - resources:
