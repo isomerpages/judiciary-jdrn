@@ -39,7 +39,7 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/singapore/permalink/" rel="noopener nofollow" target="_blank">Singapore</a>
 </p>
-<p><a href="/about-us/dubai/" rel="noopener nofollow" target="_blank">The United Arab Emirates</a>
+<p><a href="/about-us/dubai/" rel="noopener nofollow" target="_blank">United Arab Emirates</a>
 </p>
 <p><a href="/about-us/uk/permalink/" rel="noopener nofollow" target="_blank">United Kingdom</a>
 </p>
