@@ -1,0 +1,5 @@
+collections:
+  photo-gallery:
+    output: true
+    order:
+      - Photos of 4th JDRN Meeting.md

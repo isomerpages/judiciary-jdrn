@@ -15,8 +15,6 @@ third_nav_title: Our Members
 </p>
 <p><a href="/about-us/china/permalink/" rel="noopener nofollow" target="_blank">China</a>
 </p>
-<p><a href="/about-us/dubai/" rel="noopener nofollow" target="_blank">Dubai</a>
-</p>
 <p><a href="/about-us/germany/permalink/" rel="noopener nofollow" target="_blank">Germany</a>
 </p>
 <p><a href="/hong-kong/" rel="noopener nofollow" target="_blank">Hong Kong</a>
@@ -40,6 +38,8 @@ third_nav_title: Our Members
 <p><a href="/about-us/rwanda/" rel="noopener nofollow" target="_blank">Rwanda</a>
 </p>
 <p><a href="/about-us/singapore/permalink/" rel="noopener nofollow" target="_blank">Singapore</a>
+</p>
+<p><a href="/about-us/dubai/" rel="noopener nofollow" target="_blank">United Arab Emirates</a>
 </p>
 <p><a href="/about-us/uk/permalink/" rel="noopener nofollow" target="_blank">United Kingdom</a>
 </p>
