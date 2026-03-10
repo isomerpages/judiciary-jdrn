@@ -50,3 +50,6 @@ description: ""
 </p>
 <p><a href="/files/Concluding_Remarks___Malaysia.pdf" rel="noopener nofollow" target="_blank">The Right Honourable Justice Dato' Abu Bakar Jais</a>
 </p>
+<p></p>
+<p><a href="/photos-of-jdrn-meetings/" rel="noopener nofollow" target="_blank">Photos of 4th JDRN Meeting</a>
+</p>
