@@ -36,4 +36,8 @@ sections:
   - resources:
       title: Join Us
       id: resources
+  - infobar:
+      title: Join us as a Member
+      id: infobar
+      button: Button Text
 ---
