@@ -11,14 +11,14 @@ variant: tiptap
 <p><a href="/files/judiciary times-compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore's Judiciary Times featuring the JDRN</a>
 </p>
 <p></p>
-<h4><a href="https://cms.isomer.gov.sg/past-meeting/permalink/" rel="noopener nofollow" target="_blank">Second Meeting of the JDRN</a></h4>
+<h4><a href="https://cms.isomer.gov.sg/past-meeting/permalink/" rel="noopener nofollow" target="_blank">2nd Meeting of the JDRN</a></h4>
 <h5><strong><u>Media Release</u></strong></h5>
 <p><a href="/files/Media_Release__Second_JDRN_Meeting_2023.pdf" rel="noopener nofollow" target="_blank">Second JDRN Meeting 2023</a>
 </p>
 <p><a href="/files/JDRN_WEBSITE_STATEMEN1.pdf" rel="noopener nofollow" target="_blank">Website Statement</a>
 </p>
 <p></p>
-<h4><a href="/third-meeting-of-the-jdrn/" rel="noopener nofollow" target="_blank">Third Meeting of the JDRN</a></h4>
+<h4><a href="/third-meeting-of-the-jdrn/" rel="noopener nofollow" target="_blank">3rd Meeting of the JDRN</a></h4>
 <p><a href="/files/Website_Statement.pdf" rel="noopener nofollow" target="_blank">Website Statement</a>
 </p>
 <p></p>
