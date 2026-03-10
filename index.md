@@ -40,5 +40,5 @@ sections:
       title: Join us as a Member
       id: infobar
       button: More
-      url: /Join us
+      url: /join-us/asmember/
 ---
