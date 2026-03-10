@@ -207,3 +207,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4TH_JDRN_MEETING_2026_GRAND_HYATT_TAGUIG_DAY_1___website_image.jpg">
+</div>
+<p></p>
