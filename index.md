@@ -39,5 +39,6 @@ sections:
   - infobar:
       title: Join us as a Member
       id: infobar
-      button: Button Text
+      button: More
+      url: /Join us
 ---
