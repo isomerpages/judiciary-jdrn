@@ -29,8 +29,8 @@ sections:
   - infopic:
       title: New Members
       id: infopic
-      description: Judiciary of India, Judiciary of Hong Kong and the Supreme Court of
-        the Republic of Kazakhstan and The Supreme Court of Victoria
+      description: Supreme Court of Victoria (wef 4 March 2026), Judiciary of Namibia
+        (wef 20 March 2026)
       image: /images/5th_Meeting_image5___old_website.jpg
       alt: Image alt text
   - infobar:
